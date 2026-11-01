@@ -122,6 +122,18 @@
       "description": "Enter the Splatlands, a sun-scorched desert inhabited by battle-hardened Inklings and Octolings. Splatsville, the city of chaos, is the adrenaline-fueled heart of this dusty wasteland.",
       "description_vi": "Bước vào Splatlands, một sa mạc khô cằn đầy nắng gió, nơi sinh sống của những Inkling và Octoling dày dạn kinh nghiệm chiến đấu. Splatsville, thành phố hỗn loạn, là trái tim đầy năng lượng của vùng đất hoang bụi bặm này.",
       "release_date": "2022-09-09"
+    },
+    {
+      "id": "switch-sports",
+      "title_id": "",
+      "name": "switch sports",
+      "version": "1.5.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/switch-sports/switch-sports__v1.5.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob683.jpg",
+      "description": "Get moving in Nintendo Switch Sports with Golf, Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con controllers!",
+      "description_vi": "Hãy cùng tham gia các trò chơi thể thao trên Nintendo Switch Sports như Golf, Bóng đá, Bóng chuyền, Bowling, Quần vợt, Cầu lông và Chambara (đấu kiếm) bằng tay cầm Joy-Con!",
+      "release_date": "2022-04-29"
     }
   ]
 }
