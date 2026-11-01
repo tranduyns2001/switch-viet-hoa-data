@@ -134,6 +134,18 @@
       "description": "Splatter enemies and claim your turf as the ink-spewing, squid-like characters called Inklings in Nintendo's new third-person action shooter game for the Wii U console.",
       "description_vi": "Tiêu diệt kẻ thù và giành lấy lãnh thổ của bạn với tư cách là những nhân vật giống mực phun mực có tên Inklings trong trò chơi bắn súng hành động góc nhìn thứ ba mới của Nintendo dành cho hệ máy Wii U.",
       "release_date": "2015-05-29"
+    },
+    {
+      "id": "splatoon-3",
+      "title_id": "",
+      "name": "splatoon 3",
+      "version": "11.3.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/splatoon-3/splatoon-3__v11.3.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59x3.jpg",
+      "description": "Enter the Splatlands, a sun-scorched desert inhabited by battle-hardened Inklings and Octolings. Splatsville, the city of chaos, is the adrenaline-fueled heart of this dusty wasteland.",
+      "description_vi": "Bước vào Splatlands, một sa mạc khô cằn đầy nắng gió, nơi sinh sống của những Inkling và Octoling dày dạn kinh nghiệm chiến đấu. Splatsville, thành phố hỗn loạn, là trái tim đầy năng lượng của vùng đất hoang bụi bặm này.",
+      "release_date": "2022-09-09"
     }
   ]
 }
