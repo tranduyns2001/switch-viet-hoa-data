@@ -122,6 +122,18 @@
       "description": "Get moving in Nintendo Switch Sports with Golf, Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con controllers!",
       "description_vi": "Hãy cùng tham gia các trò chơi thể thao trên Nintendo Switch Sports như Golf, Bóng đá, Bóng chuyền, Bowling, Quần vợt, Cầu lông và Chambara (đấu kiếm) bằng tay cầm Joy-Con!",
       "release_date": "2022-04-29"
+    },
+    {
+      "id": "splatoon3",
+      "title_id": "",
+      "name": "splatoon3",
+      "version": "11.3.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/splatoon3/splatoon3__v11.3.0.zip",
+      "cover": "",
+      "description": "Splatter enemies and claim your turf as the ink-spewing, squid-like characters called Inklings in Nintendo's new third-person action shooter game for the Wii U console.",
+      "description_vi": "Tiêu diệt kẻ thù và giành lấy lãnh thổ của bạn với tư cách là những nhân vật giống mực phun mực có tên Inklings trong trò chơi bắn súng hành động góc nhìn thứ ba mới của Nintendo dành cho hệ máy Wii U.",
+      "release_date": "2015-05-29"
     }
   ]
 }
