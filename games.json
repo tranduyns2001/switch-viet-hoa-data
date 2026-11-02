@@ -13,7 +13,8 @@
       "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/zelda-totk/zelda-totk__vunknown.zip",
       "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination.",
       "description_vi": "Một cuộc phiêu lưu sử thi xuyên suốt vùng đất và bầu trời Hyrule đang chờ đón bạn trong The Legend of Zelda: Tears of the Kingdom dành cho Nintendo Switch.",
-      "release_date": "2023-05-12"
+      "release_date": "2023-05-12",
+      "genre": "Phiêu lưu"
     },
     {
       "id": "splatoon-3",
@@ -25,7 +26,8 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59x3.jpg",
       "description": "Enter the Splatlands, a sun-scorched desert inhabited by battle-hardened Inklings and Octolings. Splatsville, the city of chaos, is the adrenaline-fueled heart of this dusty wasteland.",
       "description_vi": "Bước vào Splatlands, một sa mạc khô cằn đầy nắng gió, nơi sinh sống của những Inkling và Octoling dày dạn kinh nghiệm chiến đấu. Splatsville, thành phố hỗn loạn, là trái tim đầy năng lượng của vùng đất hoang bụi bặm này.",
-      "release_date": "2022-09-09"
+      "release_date": "2022-09-09",
+      "genre": "Hành động"
     },
     {
       "id": "zelda-links-awakening",
@@ -37,7 +39,8 @@
       "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/zelda-links-awakening/zelda-links-awakening__vunknown.rar",
       "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam.",
       "description_vi": "Trong vai Link, bạn tỉnh dậy ở một vùng đất kỳ lạ cách xa Hyrule, nơi động vật biết nói và quái vật lang thang khắp nơi.",
-      "release_date": "2019-09-20"
+      "release_date": "2019-09-20",
+      "genre": "Phiêu lưu"
     },
     {
       "id": "switch-sports",
@@ -49,7 +52,8 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob683.jpg",
       "description": "Get moving in Nintendo Switch Sports with Golf, Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con controllers!",
       "description_vi": "Hãy cùng tham gia các trò chơi thể thao trên Nintendo Switch Sports như Golf, Bóng đá, Bóng chuyền, Bowling, Quần vợt, Cầu lông và Chambara (đấu kiếm) bằng tay cầm Joy-Con!",
-      "release_date": "2022-04-29"
+      "release_date": "2022-04-29",
+      "genre": "Mô phỏng"
     },
     {
       "id": "monopoly",
@@ -61,7 +65,8 @@
       "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/monopoly/monopoly__v1.0.5.zip",
       "description": "Monopoly is back with a fresh look and an improved game experience. Buy, sell, trade properties, and grow your empire in this faithful adaptation of the game we all grew up with!",
       "description_vi": "Trò chơi Monopoly đã trở lại với diện mạo mới và trải nghiệm chơi game được cải tiến.",
-      "release_date": "2024-09-26"
+      "release_date": "2024-09-26",
+      "genre": "Mô phỏng"
     }
   ]
 }
