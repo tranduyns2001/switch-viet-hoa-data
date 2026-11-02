@@ -1,0 +1,45 @@
+# Hướng Dẫn Sử Dụng SWITCH VIỆT HÓA
+
+## 1. Tải patch tiếng Việt
+- Ở tab Kho Việt Hóa, dùng D-pad hoặc cần trái để chọn game, bấm A để xem chi tiết.
+- Trong trang chi tiết, bấm A để tải patch. Đang tải mà muốn hủy thì bấm B.
+- Patch tải xong sẽ được giải nén tự động.
+
+## 2. Tìm kiếm và lọc thể loại
+- Bấm Y để nhập tên game cần tìm, bấm X để xóa tìm kiếm.
+- Ở hàng game trên cùng, bấm D-pad lên để đưa con trỏ lên thanh tìm kiếm và thể loại.
+- Bấm trái hoặc phải để chọn ô tìm kiếm hay một thể loại, bấm A để xác nhận.
+- Chọn một thể loại thì danh sách chỉ hiện game thuộc đúng thể loại đó.
+- Game không có thể loại sẽ nằm ở nhóm Khác.
+
+## 3. Chuyển tab
+- Bấm L hoặc R để chuyển qua lại giữa các tab.
+- Các tab gồm: Kho Việt Hóa, Đã Tải, Chia Sẻ Việt Hóa, Hướng Dẫn, Cài Đặt.
+- Có thể chạm trực tiếp vào tab trên màn hình cảm ứng.
+
+## 4. Quản lý file
+- Tab Đã Tải duyệt toàn bộ thẻ SD: A mở thư mục, B quay lại, X chọn nhiều mục.
+- Bấm Y để mở menu: copy, cắt, dán, xóa, đổi tên, tạo thư mục mới.
+
+## 5. Chia sẻ bản việt hóa
+- Vào tab Chia Sẻ Việt Hóa, điền lần lượt từng mục rồi bấm Gửi.
+- Tên game: bấm A để gõ. Nên gõ chữ không dấu, đúng tên gốc của game.
+- Ví dụ đúng: Super Mario Odyssey. Ví dụ sai: Mario Odyssey Viet Hoa v1.
+- Chỉ gõ tên game, không thêm chữ việt hóa, số phiên bản hay dấu đặc biệt vào tên.
+- Phiên bản: gõ số phiên bản của bản việt hóa, ví dụ 1.0 hoặc 1.2.3.
+- Phiên bản chỉ gồm số, chữ cái và dấu chấm. Không gõ chữ v ở đầu.
+- Thể loại: bấm A để đổi qua lại giữa các thể loại, chọn đúng thể loại của game.
+- Chọn Tự động thì thể loại lấy theo dữ liệu IGDB, có thể không chính xác.
+- File patch: chọn file .zip, .7z hoặc .rar trên thẻ SD, tối đa 1 GB.
+- Tên file trên thẻ SD đặt gì cũng được, app tự đổi thành tên chuẩn khi gửi.
+- Tên chuẩn có dạng: ten-game__v1.0.zip (ví dụ: super-mario-odyssey__v1.0.zip).
+- Bên trong file nén nên giữ đúng cấu trúc thư mục cần chép vào thẻ SD.
+- Mỗi game chỉ có một bản. Game đã có trên Kho hoặc đang chờ duyệt thì không gửi lại được.
+- Gửi xong, bản việt hóa sẽ hiện ở Kho Việt Hóa sau khi được duyệt.
+
+## 6. Cài đặt
+- Tab Cài Đặt cho phép chọn thư mục tải patch, thư mục giải nén, tải lại danh sách game.
+- Mục Cập nhật ứng dụng dùng để tải bản mới nhất của app, xong cần mở lại app.
+
+## 7. Thoát ứng dụng
+- Bấm nút + để thoát.
