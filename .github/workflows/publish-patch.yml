@@ -1,0 +1,66 @@
+name: Publish community patch
+
+# Duoc Apps Script goi (workflow_dispatch) khi mot ban viet hoa duoc dang.
+# Dat file nay tai: .github/workflows/publish-patch.yml trong repo switch-viet-hoa-data
+# Can them 2 Repository secrets (Settings > Secrets and variables > Actions):
+#   APPS_SCRIPT_URL  = URL web app Apps Script (dang https://script.google.com/macros/s/.../exec)
+#   CALLBACK_SECRET  = cung gia tri WEBHOOK_SECRET trong Script Properties
+
+on:
+  workflow_dispatch:
+    inputs:
+      drive_id:
+        description: Google Drive file id
+        required: true
+      file_name:
+        description: "<id>__v<version>.zip|7z|rar"
+        required: true
+      display_name:
+        description: Ten game hien thi
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      DRIVE_ID: ${{ inputs.drive_id }}
+      FILE_NAME: ${{ inputs.file_name }}
+      DISPLAY_NAME: ${{ inputs.display_name }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Kiem tra tham so
+        run: |
+          [[ "$DRIVE_ID" =~ ^[A-Za-z0-9_-]+$ ]] || { echo "drive_id khong hop le"; exit 1; }
+          [[ "$FILE_NAME" =~ ^[a-z0-9-]+__v[0-9A-Za-z._-]+\.(zip|7z|rar)$ ]] || { echo "file_name khong hop le"; exit 1; }
+
+      - name: Tai file tu Google Drive
+        run: |
+          pip install --quiet gdown
+          gdown "https://drive.google.com/uc?id=${DRIVE_ID}" -O "$FILE_NAME"
+          SIZE=$(stat -c %s "$FILE_NAME")
+          echo "Kich thuoc: $SIZE byte"
+          if [ "$SIZE" -le 0 ] || [ "$SIZE" -gt 1073741824 ]; then
+            echo "File rong hoac lon hon 1 GB"; exit 1
+          fi
+
+      - name: Dang Release
+        run: |
+          TAG="${FILE_NAME%%__v*}"
+          gh release create "$TAG" "$FILE_NAME" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "$DISPLAY_NAME" \
+            --notes "$(printf 'community-name: %s\nBan viet hoa do nguoi dung chia se.' "$DISPLAY_NAME")"
+
+      - name: Bao lai Apps Script (xoa ban tam, cap nhat games.json)
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          CALLBACK_SECRET: ${{ secrets.CALLBACK_SECRET }}
+        run: |
+          curl -fsSL -G "$APPS_SCRIPT_URL" \
+            --data-urlencode "action=publish_done" \
+            --data-urlencode "file=$FILE_NAME" \
+            --data-urlencode "secret=$CALLBACK_SECRET" || true
