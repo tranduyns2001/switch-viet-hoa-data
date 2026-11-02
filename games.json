@@ -4,90 +4,6 @@
   "updated_at": "2026-11-02",
   "games": [
     {
-      "id": "zelda-botw",
-      "name": "ZELDA: BREATH OF THE WILD",
-      "version": "",
-      "status": "CHUA CO PATCH",
-      "cover": "https://raw.githubusercontent.com/tranduyns2001/switch-viet-hoa-data/main/covers/zelda.jpg",
-      "patch_url": "",
-      "description": "Ban dich tieng Viet",
-      "description_vi": "Bản dịch tiếng Việt"
-    },
-    {
-      "id": "super-mario-odyssey",
-      "name": "SUPER MARIO ODYSSEY",
-      "version": "",
-      "status": "CHUA CO PATCH",
-      "cover": "https://raw.githubusercontent.com/tranduyns2001/switch-viet-hoa-data/main/covers/mario.jpg",
-      "patch_url": "",
-      "description": "Ban dich tieng Viet",
-      "description_vi": "Bản dịch tiếng Việt"
-    },
-    {
-      "id": "animal-crossing",
-      "name": "ANIMAL CROSSING",
-      "version": "",
-      "status": "CHUA CO PATCH",
-      "cover": "https://raw.githubusercontent.com/tranduyns2001/switch-viet-hoa-data/main/covers/animal.jpg",
-      "patch_url": "",
-      "description": "Ban dich tieng Viet",
-      "description_vi": "Bản dịch tiếng Việt"
-    },
-    {
-      "id": "pokemon-legends",
-      "name": "POKEMON LEGENDS",
-      "version": "",
-      "status": "CHUA CO PATCH",
-      "cover": "https://raw.githubusercontent.com/tranduyns2001/switch-viet-hoa-data/main/covers/pokemon.jpg",
-      "patch_url": "",
-      "description": "Ban dich tieng Viet",
-      "description_vi": "Bản dịch tiếng Việt"
-    },
-    {
-      "id": "the-witcher-3",
-      "name": "THE WITCHER 3",
-      "version": "",
-      "status": "CHUA CO PATCH",
-      "cover": "https://raw.githubusercontent.com/tranduyns2001/switch-viet-hoa-data/main/covers/witcher.jpg",
-      "patch_url": "",
-      "description": "Ban dich tieng Viet",
-      "description_vi": "Bản dịch tiếng Việt"
-    },
-    {
-      "id": "dark-souls-remastered",
-      "name": "DARK SOULS REMASTERED",
-      "version": "",
-      "status": "CHUA CO PATCH",
-      "cover": "https://raw.githubusercontent.com/tranduyns2001/switch-viet-hoa-data/main/covers/darksouls.jpg",
-      "patch_url": "",
-      "description": "Ban dich tieng Viet",
-      "description_vi": "Bản dịch tiếng Việt"
-    },
-    {
-      "id": "zelda-links-awakening",
-      "title_id": "01006BB00C6F0000",
-      "name": "The Legend of Zelda: Link's Awakening",
-      "version": "Chưa xác định",
-      "status": "CO PATCH",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qve.jpg",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/zelda-links-awakening/zelda-links-awakening__vunknown.rar",
-      "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam.",
-      "description_vi": "Trong vai Link, bạn tỉnh dậy ở một vùng đất kỳ lạ cách xa Hyrule, nơi động vật biết nói và quái vật lang thang khắp nơi.",
-      "release_date": "2019-09-20"
-    },
-    {
-      "id": "monopoly",
-      "title_id": "",
-      "name": "monopoly",
-      "version": "1.0.5",
-      "status": "CO PATCH",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coalqb.jpg",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/monopoly/monopoly__v1.0.5.zip",
-      "description": "Monopoly is back with a fresh look and an improved game experience. Buy, sell, trade properties, and grow your empire in this faithful adaptation of the game we all grew up with!",
-      "description_vi": "Trò chơi Monopoly đã trở lại với diện mạo mới và trải nghiệm chơi game được cải tiến.",
-      "release_date": "2024-09-26"
-    },
-    {
       "id": "zelda-totk",
       "title_id": "",
       "name": "zelda totk",
@@ -112,6 +28,18 @@
       "release_date": "2022-09-09"
     },
     {
+      "id": "zelda-links-awakening",
+      "title_id": "01006BB00C6F0000",
+      "name": "The Legend of Zelda: Link's Awakening",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qve.jpg",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/zelda-links-awakening/zelda-links-awakening__vunknown.rar",
+      "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam.",
+      "description_vi": "Trong vai Link, bạn tỉnh dậy ở một vùng đất kỳ lạ cách xa Hyrule, nơi động vật biết nói và quái vật lang thang khắp nơi.",
+      "release_date": "2019-09-20"
+    },
+    {
       "id": "switch-sports",
       "title_id": "",
       "name": "switch sports",
@@ -122,6 +50,18 @@
       "description": "Get moving in Nintendo Switch Sports with Golf, Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con controllers!",
       "description_vi": "Hãy cùng tham gia các trò chơi thể thao trên Nintendo Switch Sports như Golf, Bóng đá, Bóng chuyền, Bowling, Quần vợt, Cầu lông và Chambara (đấu kiếm) bằng tay cầm Joy-Con!",
       "release_date": "2022-04-29"
+    },
+    {
+      "id": "monopoly",
+      "title_id": "",
+      "name": "monopoly",
+      "version": "1.0.5",
+      "status": "CO PATCH",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coalqb.jpg",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/monopoly/monopoly__v1.0.5.zip",
+      "description": "Monopoly is back with a fresh look and an improved game experience. Buy, sell, trade properties, and grow your empire in this faithful adaptation of the game we all grew up with!",
+      "description_vi": "Trò chơi Monopoly đã trở lại với diện mạo mới và trải nghiệm chơi game được cải tiến.",
+      "release_date": "2024-09-26"
     }
   ]
 }
