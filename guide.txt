@@ -30,7 +30,13 @@
 - Phiên bản chỉ gồm số, chữ cái và dấu chấm. Không gõ chữ v ở đầu.
 - Thể loại: bấm A để đổi qua lại giữa các thể loại, chọn đúng thể loại của game.
 - Chọn Tự động thì thể loại lấy theo dữ liệu IGDB, có thể không chính xác.
+- Title ID (không bắt buộc): gồm đúng 16 ký tự số 0-9 và chữ A-F, ví dụ 01006BB00C6F0000.
+- Không biết Title ID thì để trống. Gõ sai độ dài thì app sẽ báo lỗi và xóa đi.
+- Mô tả ngắn (không bắt buộc): 1-2 câu về bản việt hóa, ví dụ: Việt hóa toàn bộ hội thoại và menu.
+- Để trống mô tả thì app tự lấy mô tả của game từ IGDB.
 - File patch: chọn file .zip, .7z hoặc .rar trên thẻ SD, tối đa 1 GB.
+- Nếu bản việt hóa đang là thư mục: mở vào đúng thư mục đó rồi bấm X (Chọn thư mục này).
+- App tự nén thư mục thành .zip rồi gửi, bạn không cần nén trước. Đừng chọn cả thẻ SD.
 - Tên file trên thẻ SD đặt gì cũng được, app tự đổi thành tên chuẩn khi gửi.
 - Tên chuẩn có dạng: ten-game__v1.0.zip (ví dụ: super-mario-odyssey__v1.0.zip).
 - Bên trong file nén nên giữ đúng cấu trúc thư mục cần chép vào thẻ SD.
