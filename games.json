@@ -4,20 +4,6 @@
   "updated_at": "2026-11-07",
   "games": [
     {
-      "id": "0000000000534c56",
-      "title_id": "",
-      "name": "0000000000534C56",
-      "genre": "",
-      "description": "Chưa có mô tả.",
-      "author": "",
-      "version": "1.0",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/0000000000534c56/0000000000534c56__v1.0.zip",
-      "cover": "",
-      "description_vi": "Chưa có mô tả.",
-      "release_date": ""
-    },
-    {
       "id": "zelda-totk",
       "title_id": "",
       "name": "zelda totk",
