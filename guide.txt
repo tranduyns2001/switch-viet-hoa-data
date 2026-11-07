@@ -24,18 +24,21 @@
 ## 5. Chia sẻ bản việt hóa
 - Vào tab Chia Sẻ Việt Hóa, điền lần lượt từng mục rồi bấm Gửi.
 - Tên game: bấm A để gõ. Nên gõ chữ không dấu, đúng tên gốc của game.
+- Bỏ trống tên game thì app tự lấy tên file hoặc thư mục bạn đã chọn.
 - Ví dụ đúng: Super Mario Odyssey. Ví dụ sai: Mario Odyssey Viet Hoa v1.
 - Chỉ gõ tên game, không thêm chữ việt hóa, số phiên bản hay dấu đặc biệt vào tên.
 - Phiên bản: gõ số phiên bản của bản việt hóa, ví dụ 1.0 hoặc 1.2.3.
 - Phiên bản chỉ gồm số, chữ cái và dấu chấm. Không gõ chữ v ở đầu.
 - Thể loại: bấm A để đổi qua lại giữa các thể loại, chọn đúng thể loại của game.
 - Chọn Tự động thì thể loại lấy theo dữ liệu IGDB, có thể không chính xác.
+- Tác giả việt hóa (không bắt buộc): gõ tên bạn nếu muốn, tên sẽ hiện trên kho game cho mọi người.
+- Nút Gửi lên nằm góc trên bên phải, hoặc bấm X ở bất kỳ dòng nào để gửi ngay.
 - Title ID (không bắt buộc): gồm đúng 16 ký tự số 0-9 và chữ A-F, ví dụ 01006BB00C6F0000.
 - Không biết Title ID thì để trống. Gõ sai độ dài thì app sẽ báo lỗi và xóa đi.
 - Mô tả ngắn (không bắt buộc): 1-2 câu về bản việt hóa, ví dụ: Việt hóa toàn bộ hội thoại và menu.
 - Để trống mô tả thì app tự lấy mô tả của game từ IGDB.
 - File patch: chọn file .zip, .7z hoặc .rar trên thẻ SD, tối đa 1 GB.
-- Nếu bản việt hóa đang là thư mục: mở vào đúng thư mục đó rồi bấm X (Chọn thư mục này).
+- Nếu bản việt hóa là thư mục: di chuyển con trỏ tới thư mục đó rồi bấm X để chọn.
 - App tự nén thư mục thành .zip rồi gửi, bạn không cần nén trước. Đừng chọn cả thẻ SD.
 - Tên file trên thẻ SD đặt gì cũng được, app tự đổi thành tên chuẩn khi gửi.
 - Tên chuẩn có dạng: ten-game__v1.0.zip (ví dụ: super-mario-odyssey__v1.0.zip).
