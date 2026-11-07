@@ -18,6 +18,20 @@
       "release_date": "2017-03-03"
     },
     {
+      "id": "dragon-ball-z-kakarot",
+      "title_id": "",
+      "name": "dragon ball z kakarot",
+      "genre": "Nhập vai",
+      "description": "Relive the story of Goku in Dragon Ball Z: Kakarot! Beyond the epic battles, experience life in the Dragon Ball Z world as you fight, fish, eat, and train with Goku.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/dragon-ball-z-kakarot/dragon-ball-z-kakarot__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocsi3.jpg",
+      "description_vi": "Sống lại câu chuyện của Goku trong Dragon Ball Z: Kakarot! Bên cạnh những trận chiến hoành tráng, hãy trải nghiệm cuộc sống trong thế giới Dragon Ball Z khi bạn chiến đấu, câu cá, ăn uống và luyện tập cùng Goku.",
+      "release_date": "2020-01-17"
+    },
+    {
       "id": "zelda-totk",
       "title_id": "",
       "name": "zelda totk",
