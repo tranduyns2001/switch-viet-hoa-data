@@ -18,6 +18,20 @@
       "release_date": "2024-09-26"
     },
     {
+      "id": "mario-rpg",
+      "title_id": "",
+      "name": "mario rpg",
+      "genre": "Nhập vai",
+      "description": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/mario-rpg/mario-rpg__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9n.jpg",
+      "description_vi": "Mario, Bowser và Peach hợp tác để sửa chữa Con đường Sao ban điều ước trong cuộc phiêu lưu nhập vai dễ tiếp cận này.",
+      "release_date": "2023-11-17"
+    },
+    {
       "id": "zelda-botw",
       "title_id": "",
       "name": "The Legend of Zelda: Breath of the Wild",
