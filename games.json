@@ -46,6 +46,20 @@
       "release_date": "2023-11-17"
     },
     {
+      "id": "xenobladex",
+      "title_id": "",
+      "name": "xenobladex",
+      "genre": "",
+      "description": "Chưa có mô tả.",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/XenobladeX/XenobladeX__v1.0.1.zip",
+      "cover": "",
+      "description_vi": "Chưa có mô tả.",
+      "release_date": ""
+    },
+    {
       "id": "zelda-botw",
       "title_id": "",
       "name": "The Legend of Zelda: Breath of the Wild",
