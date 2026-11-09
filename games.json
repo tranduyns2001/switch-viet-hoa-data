@@ -4,6 +4,20 @@
   "updated_at": "2026-11-09",
   "games": [
     {
+      "id": "xenoblade-chronicles-x",
+      "title_id": "",
+      "name": "xenoblade chronicles x",
+      "genre": "Nhập vai",
+      "description": "Xenoblade Chronicles X: Definitive Edition is an expanded version of Monolith Soft’s open-world science fiction role-playing game.",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-Chronicles-X/Xenoblade-Chronicles-X__v1.0.1.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8r3.jpg",
+      "description_vi": "Xenoblade Chronicles X: Definitive Edition là phiên bản mở rộng của trò chơi nhập vai khoa học viễn tưởng thế giới mở do Monolith Soft phát triển.",
+      "release_date": "2025-03-20"
+    },
+    {
       "id": "animal-crossing-new-horizons",
       "title_id": "",
       "name": "animal crossing new horizons",
