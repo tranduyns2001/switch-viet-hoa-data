@@ -60,6 +60,20 @@
       "release_date": "2020-05-29"
     },
     {
+      "id": "pokemon-shield",
+      "title_id": "",
+      "name": "pokemon shield",
+      "genre": "Nhập vai",
+      "description": "Pokémon Shield is a role-playing game set in the Galar region, a fictional land inspired by the United Kingdom.",
+      "author": "",
+      "version": "1.3.2",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Pokemon-Shield/Pokemon-Shield__v1.3.2.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk1.jpg",
+      "description_vi": "Pokémon Shield là một trò chơi nhập vai lấy bối cảnh ở vùng Galar, một vùng đất hư cấu được lấy cảm hứng từ Vương quốc Anh.",
+      "release_date": "2019-11-15"
+    },
+    {
       "id": "pokemon-scarlet",
       "title_id": "",
       "name": "pokemon scarlet",
