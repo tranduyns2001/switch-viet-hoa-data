@@ -185,25 +185,6 @@
       "release_date": "2024-09-26",
       "genre": "Mô phỏng",
       "author": ""
-    },
-    {
-      "id": "xenoblade-chronicles-2",
-      "title_id": "0100E95004038000",
-      "name": "xenoblade chronicles 2",
-      "genre": "Nhập vai",
-      "description": "As the giant beasts of the Cloud Sea die, so too does hope. Rex and his Blade Pyra set out on a journey to find Elysium, the fabled paradise of humanity.",
-      "author": "",
-      "version": "2.1.0",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-2/Xenoblade2_VH_v2.1.0.zip.001",
-      "patch_parts": [
-        "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-2/Xenoblade2_VH_v2.1.0.zip.001",
-        "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-2/Xenoblade2_VH_v2.1.0.zip.002"
-      ],
-      "requires_dlc": true,
-      "cover": "",
-      "description_vi": "Khi những cự thú khổng lồ của Biển Mây dần chết đi, hy vọng cũng tàn lụi theo. Rex cùng Blade Pyra lên đường tìm kiếm Elysium, miền đất hứa huyền thoại của loài người.",
-      "release_date": "2017-12-01"
     }
   ]
 }
