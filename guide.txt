@@ -1,33 +1,52 @@
 # Hướng Dẫn Sử Dụng SWITCH VIỆT HÓA
 
-## 1. Tải patch tiếng Việt
-- Ở tab Kho Việt Hóa, dùng D-pad hoặc cần trái để chọn game, bấm A để xem chi tiết.
-- Trong trang chi tiết, bấm A để tải patch. Đang tải mà muốn hủy thì bấm B.
-- Patch tải xong sẽ được giải nén tự động.
+## 1. Chọn phiên bản patch
+- Một game có thể có nhiều bản patch cho từng phiên bản game khác nhau.
+- Kiểm tra phiên bản game của bạn: ở màn hình chính Switch, bấm + trên game, xem dòng phiên bản.
+- Game có nhiều bản: bấm A sẽ hiện bảng Chọn phiên bản game của bạn.
+- Dùng lên/xuống để chọn đúng phiên bản, bấm A để tải, bấm B để đóng bảng.
+- Có thể chạm vào một dòng để chọn, chạm lần nữa để tải.
+- Bản có nhãn cam Cần DLC nghĩa là phải cài DLC đúng phiên bản đó thì patch mới chạy.
+- Dòng Yêu cầu màu cam trong trang chi tiết là lưu ý chung của game, đọc kỹ trước khi tải.
+- Tải sai phiên bản có thể làm game lỗi hoặc không hiện tiếng Việt.
 
-## 2. Tìm kiếm và lọc thể loại
-- Bấm Y để nhập tên game cần tìm, bấm X để xóa tìm kiếm.
-- Ở hàng game trên cùng, bấm D-pad lên để đưa con trỏ lên thanh tìm kiếm và thể loại.
-- Bấm trái hoặc phải để chọn ô tìm kiếm hay một thể loại, bấm A để xác nhận.
-- Chọn một thể loại thì danh sách chỉ hiện game thuộc đúng thể loại đó.
-- Game không có thể loại sẽ nằm ở nhóm Khác.
+## 2. Cài việt hóa vào game
+- Yêu cầu: máy Switch đã chạy Atmosphère (CFW). Máy chưa mod thì không cài được.
+- Patch tải về nằm ở sdmc:/switch/SWITCH-VIET-HOA-STORE/patches, bản giải nén nằm ở sdmc:/switch/SWITCH-VIET-HOA-STORE/extracted.
+- Bước 1: Vào tab Đã Tải, mở thư mục extracted rồi mở thư mục của game vừa tải.
+- Bước 2: Tìm thư mục có tên là Title ID của game (16 ký tự, ví dụ 0100F2C0115B6000).
+- Thư mục này thường nằm trong atmosphere/contents bên trong bản giải nén, hoặc nằm ngay ở ngoài.
+- Bước 3: Đưa con trỏ tới thư mục Title ID, bấm Y chọn Copy.
+- Bước 4: Đi tới sdmc:/atmosphere/contents, bấm Y chọn Dán.
+- Nếu bản giải nén có sẵn thư mục atmosphere thì có thể copy cả thư mục atmosphere đó, dán vào gốc thẻ SD (sdmc:/).
+- Đã có bản cũ thì cứ dán đè, app tự gộp thư mục và ghi đè file trùng.
+- Bước 5: Thoát app, tắt game nếu đang mở rồi mở lại game. Nếu chưa thấy tiếng Việt thì khởi động lại máy.
+- Cách nhanh: ở tab Cài Đặt, đổi Thư mục giải nén thành sdmc:/ (gốc thẻ SD). Patch có sẵn thư mục atmosphere sẽ được giải nén thẳng vào đúng chỗ, không cần copy.
+- Lưu ý: phiên bản game phải đúng với phiên bản patch. Cập nhật game lên bản mới có thể làm patch không chạy, khi đó tải lại patch đúng phiên bản.
+- Patch có nhãn Cần DLC thì phải cài DLC đúng phiên bản đó trước.
+- Gỡ việt hóa: vào sdmc:/atmosphere/contents, xóa thư mục Title ID của game rồi mở lại game.
+- Cẩn thận: không xóa nhầm thư mục Title ID của mod hoặc cheat khác.
 
-## 3. Chuyển tab
-- Bấm L hoặc R để chuyển qua lại giữa các tab.
-- Các tab gồm: Kho Việt Hóa, Đã Tải, Chia Sẻ Việt Hóa, Hướng Dẫn, Cài Đặt.
-- Có thể chạm trực tiếp vào tab trên màn hình cảm ứng.
+### Tránh crash khi chơi game việt hóa
+- Patch việt hóa thay đổi file game nên dễ xung đột với ứng dụng chạy ngầm (sysmodule) và ép xung (OC).
+- Bị crash, đơ, màn hình đen hoặc báo lỗi Atmosphère thì làm lần lượt các bước dưới đây.
+- Tắt ép xung: nếu dùng sys-clk, mở overlay (thường bấm L + D-pad xuống + R3) hoặc app sys-clk manager, đưa CPU/GPU/RAM về mặc định (Do not override) hoặc tắt sys-clk.
+- Tắt sysmodule bằng overlay: mở Tesla/Ultrahand (L + D-pad xuống + R3), vào mục Sysmodules, tắt các mục không cần như sys-clk, MissionControl, ldn_mitm, emuiibo, sys-con, sys-ftpd.
+- Tắt sysmodule bằng tay: vào tab Đã Tải, mở sdmc:/atmosphere/contents. Mỗi sysmodule là một thư mục Title ID có chứa thư mục flags.
+- Mở thư mục flags, đổi tên file boot2.flag thành boot2.flag.bak (bấm Y, chọn Đổi tên). Muốn bật lại thì đổi tên về như cũ.
+- Không đổi tên hay xóa thư mục Title ID của game (thư mục có romfs hoặc exefs), đó là chính bản việt hóa.
+- Tắt cheat: không bật cheat (EdiZon, Breeze, thư mục cheats) cùng lúc với bản việt hóa.
+- Tắt sysmodule xong phải khởi động lại máy (Restart) thì mới có tác dụng.
+- Đóng hẳn game trước khi chép hoặc xóa patch: bấm Home, bấm X trên game, chọn Đóng.
+- Vẫn crash thì kiểm tra lại phiên bản game, DLC, hoặc thử tải lại patch vì file có thể bị hỏng khi tải.
 
-## 4. Quản lý file
-- Tab Đã Tải duyệt toàn bộ thẻ SD: A mở thư mục, B quay lại, X chọn nhiều mục.
-- Bấm Y để mở menu: copy, cắt, dán, xóa, đổi tên, tạo thư mục mới.
-
-## 5. Chia sẻ bản việt hóa
+## 3. Chia sẻ bản việt hóa
 - Vào tab Chia Sẻ Việt Hóa, điền lần lượt từng mục rồi bấm Gửi.
 - Tên game: bấm A để gõ. Nên gõ chữ không dấu, đúng tên gốc của game.
 - Bỏ trống tên game thì app tự lấy tên file hoặc thư mục bạn đã chọn.
 - Ví dụ đúng: Super Mario Odyssey. Ví dụ sai: Mario Odyssey Viet Hoa v1.
 - Chỉ gõ tên game, không thêm chữ việt hóa, số phiên bản hay dấu đặc biệt vào tên.
-- Phiên bản: gõ số phiên bản của bản việt hóa, ví dụ 1.0 hoặc 1.2.3.
+- Phiên bản: gõ số phiên bản game mà bản việt hóa hỗ trợ, ví dụ 1.0 hoặc 1.2.3.
 - Phiên bản chỉ gồm số, chữ cái và dấu chấm. Không gõ chữ v ở đầu.
 - Thể loại: bấm A để đổi qua lại giữa các thể loại, chọn đúng thể loại của game.
 - Chọn Tự động thì thể loại lấy theo dữ liệu IGDB, có thể không chính xác.
@@ -43,12 +62,10 @@
 - Tên file trên thẻ SD đặt gì cũng được, app tự đổi thành tên chuẩn khi gửi.
 - Tên chuẩn có dạng: ten-game__v1.0.zip (ví dụ: super-mario-odyssey__v1.0.zip).
 - Bên trong file nén nên giữ đúng cấu trúc thư mục cần chép vào thẻ SD.
-- Mỗi game chỉ có một bản. Game đã có trên Kho hoặc đang chờ duyệt thì không gửi lại được.
+- Game đã có trên Kho hoặc đang chờ duyệt thì không gửi lại được.
 - Gửi xong, bản việt hóa sẽ hiện ở Kho Việt Hóa sau khi được duyệt.
 
-## 6. Cài đặt
+## 4. Cài đặt
 - Tab Cài Đặt cho phép chọn thư mục tải patch, thư mục giải nén, tải lại danh sách game.
 - Mục Cập nhật ứng dụng dùng để tải bản mới nhất của app, xong cần mở lại app.
-
-## 7. Thoát ứng dụng
-- Bấm nút + để thoát.
+- Thông tin phiên bản, tác giả được lưu tạm 1 giờ. Mới cập nhật trên kho thì có thể chờ tối đa 1 giờ mới thấy.
