@@ -32,18 +32,18 @@
       "release_date": "2022-07-29"
     },
     {
-      "id": "xexenoblade-chronicles-2",
-      "title_id": "",
-      "name": "xexenoblade chronicles 2",
-      "genre": "",
-      "description": "Chưa có mô tả.",
+      "id": "xenoblade-chronicles-2",
+      "title_id": "0100E95004038000",
+      "name": "Xenoblade Chronicles 2",
+      "genre": "Nhập vai",
+      "description": "The next adventure is on the Nintendo Switch console set on the backs of colossal, living Titans. Discover each Titan's diverse regions, culture, wildlife, equipment, and hidden secrets.",
       "author": "",
       "version": "2.1.0",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-Chronicles-2/XeXenoblade-Chronicles-2__v2.1.0.zip.001",
-      "cover": "",
-      "description_vi": "Chưa có mô tả.",
-      "release_date": ""
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-Chronicles-2/Xenoblade-Chronicles-2__v2.1.0.zip.001",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8r2.jpg",
+      "description_vi": "Cuộc phiêu lưu tiếp theo sẽ diễn ra trên hệ máy Nintendo Switch, trên lưng những người khổng lồ Titan sống động. Khám phá các vùng đất đa dạng, văn hóa, động vật hoang dã, trang bị và những bí mật ẩn giấu của mỗi Titan.",
+      "release_date": "2017-12-01"
     },
     {
       "id": "xenoblade-chronicles-1",
