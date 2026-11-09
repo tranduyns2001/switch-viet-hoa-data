@@ -4,6 +4,34 @@
   "updated_at": "2026-11-09",
   "games": [
     {
+      "id": "pokemon-pikachu",
+      "title_id": "",
+      "name": "pokemon pikachu",
+      "genre": "Nhập vai",
+      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
+      "author": "",
+      "version": "1.0.2",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/pokemon-Pikachu/pokemon-Pikachu__v1.0.2.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjy.jpg",
+      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
+      "release_date": "2018-11-16"
+    },
+    {
+      "id": "pokemon-eevee",
+      "title_id": "",
+      "name": "pokemon eevee",
+      "genre": "Nhập vai",
+      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
+      "author": "",
+      "version": "1.0.2",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/pokemon-Eevee/pokemon-Eevee__v1.0.2.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjz.jpg",
+      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
+      "release_date": "2018-11-16"
+    },
+    {
       "id": "xenoblade-chronicles-x",
       "title_id": "",
       "name": "xenoblade chronicles x",
@@ -142,34 +170,6 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
       "description_vi": "Trở lại vùng Sinnoh và câu chuyện của trò chơi Pokémon Diamond. Trải nghiệm câu chuyện đầy hoài niệm từ trò chơi Pokémon Diamond trong một cuộc phiêu lưu được tái hiện lại, Pokémon Brilliant Diamond,...",
       "release_date": "2021-11-19"
-    },
-    {
-      "id": "lets-go-pikachu",
-      "title_id": "",
-      "name": "lets go pikachu",
-      "genre": "Nhập vai",
-      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
-      "author": "",
-      "version": "1.0.2",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Lets-Go-Pikachu/Lets-Go-Pikachu__v1.0.2.zip",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjy.jpg",
-      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
-      "release_date": "2018-11-16"
-    },
-    {
-      "id": "lets-go-eevee",
-      "title_id": "",
-      "name": "lets go eevee",
-      "genre": "Nhập vai",
-      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
-      "author": "",
-      "version": "1.0.2",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Lets-Go-Eevee/Lets-Go-Eevee__v1.0.2.zip",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjz.jpg",
-      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
-      "release_date": "2018-11-16"
     },
     {
       "id": "animal-crossing-new-horizons",
