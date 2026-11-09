@@ -18,6 +18,20 @@
       "release_date": "2025-03-20"
     },
     {
+      "id": "xenoblade-chronicles-1",
+      "title_id": "",
+      "name": "xenoblade chronicles 1",
+      "genre": "Nhập vai",
+      "description": "This wave of DLC contains the following content: A collection of helpful items, including: · Consumable items: Silver Nopon Coins x 30 and Gold Nopon Coins x 10 · Accessories: Iron Temple Guard,...",
+      "author": "",
+      "version": "1.1.2",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-Chronicles-1/Xenoblade-Chronicles-1__v1.1.2.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jef.jpg",
+      "description_vi": "Gói DLC này bao gồm các nội dung sau: Một bộ sưu tập các vật phẩm hữu ích, bao gồm: · Vật phẩm tiêu hao: 30 Đồng xu Nopon bạc và 10 Đồng xu Nopon vàng · Phụ kiện: Lính canh đền thờ sắt,...",
+      "release_date": "2022-07-29"
+    },
+    {
       "id": "animal-crossing-new-horizons",
       "title_id": "01006F8002326000",
       "name": "animal crossing new horizons",
