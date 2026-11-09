@@ -18,6 +18,20 @@
       "release_date": "2025-03-20"
     },
     {
+      "id": "xenoblade-chronicles-3",
+      "title_id": "",
+      "name": "xenoblade chronicles 3",
+      "genre": "Nhập vai",
+      "description": "A vast world awaits in Xenoblade Chronicles 3, the next game in the acclaimed RPG series from developer Monolithsoft.",
+      "author": "",
+      "version": "2.2.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xenoblade-Chronicles-3/Xenoblade-Chronicles-3__v2.2.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ocq.jpg",
+      "description_vi": "Một thế giới rộng lớn đang chờ đón bạn trong Xenoblade Chronicles 3, phần tiếp theo của loạt game nhập vai nổi tiếng từ nhà phát triển Monolithsoft.",
+      "release_date": "2022-07-29"
+    },
+    {
       "id": "xenoblade-chronicles-1",
       "title_id": "",
       "name": "xenoblade chronicles 1",
