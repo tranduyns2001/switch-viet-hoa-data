@@ -130,20 +130,6 @@
       "author": ""
     },
     {
-      "id": "zelda-link-awaken",
-      "title_id": "",
-      "name": "zelda link awaken",
-      "genre": "Phiêu lưu",
-      "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam.",
-      "author": "",
-      "version": "1.0.0__v1.0.1",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/zelda-links-awakening/Zelda-Link-Awaken__v1.0.0__v1.0.1.rar",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qve.jpg",
-      "description_vi": "Trong vai Link, bạn tỉnh dậy ở một vùng đất kỳ lạ cách xa Hyrule, nơi động vật biết nói và quái vật lang thang khắp nơi.",
-      "release_date": "2019-09-20"
-    },
-    {
       "id": "switch-sports",
       "title_id": "",
       "name": "switch sports",
