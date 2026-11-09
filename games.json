@@ -4,6 +4,20 @@
   "updated_at": "2026-11-09",
   "games": [
     {
+      "id": "animal-crossing-new-horizons",
+      "title_id": "",
+      "name": "animal crossing new horizons",
+      "genre": "Mô phỏng",
+      "description": "Escape to a deserted island and create your own paradise as you explore, create, and customize in Animal Crossing: New Horizons.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Animal-Crossing-New-Horizons/Animal-Crossing-New-Horizons__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wls.jpg",
+      "description_vi": "Hãy trốn thoát đến một hòn đảo hoang vắng và tạo ra thiên đường của riêng bạn khi bạn khám phá, sáng tạo và tùy chỉnh trong Animal Crossing: New Horizons.",
+      "release_date": "2020-03-20"
+    },
+    {
       "id": "zelda-echoes-of-wisdom",
       "title_id": "",
       "name": "zelda echoes of wisdom",
