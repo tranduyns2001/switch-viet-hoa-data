@@ -74,6 +74,20 @@
       "release_date": "2022-01-28"
     },
     {
+      "id": "pokemon-brilliant-diamond",
+      "title_id": "",
+      "name": "pokemon brilliant diamond",
+      "genre": "Nhập vai",
+      "description": "Revisit the Sinnoh region and the story of the Pokémon Diamond Version game Experience the nostalgic story from the Pokémon Diamond Version game in a reimagined adventure, Pokémon Brilliant Diamond,...",
+      "author": "",
+      "version": "1.3.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Pokemon-Brilliant-Diamond/Pokemon-Brilliant-Diamond__v1.3.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
+      "description_vi": "Trở lại vùng Sinnoh và câu chuyện của trò chơi Pokémon Diamond. Trải nghiệm câu chuyện đầy hoài niệm từ trò chơi Pokémon Diamond trong một cuộc phiêu lưu được tái hiện lại, Pokémon Brilliant Diamond,...",
+      "release_date": "2021-11-19"
+    },
+    {
       "id": "lets-go-pikachu",
       "title_id": "",
       "name": "lets go pikachu",
