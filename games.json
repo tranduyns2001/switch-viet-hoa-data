@@ -60,6 +60,20 @@
       "release_date": "2020-05-29"
     },
     {
+      "id": "pokemon-violet",
+      "title_id": "",
+      "name": "pokemon violet",
+      "genre": "Nhập vai",
+      "description": "Catch, battle, and train Pokémon in the Paldea Region, a vast land filled with lakes, towering peaks, wastelands, small towns, and sprawling cities.",
+      "author": "",
+      "version": "3.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Pokemon-Violet/Pokemon-Violet__v3.0.1.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfa.jpg",
+      "description_vi": "Bắt, chiến đấu và huấn luyện Pokémon ở Vùng Paldea, một vùng đất rộng lớn với những hồ nước, đỉnh núi cao chót vót, vùng đất hoang, thị trấn nhỏ và những thành phố trải dài.",
+      "release_date": "2022-11-18"
+    },
+    {
       "id": "pokemon-sword",
       "title_id": "",
       "name": "pokemon sword",
