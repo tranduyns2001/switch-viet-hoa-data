@@ -74,6 +74,20 @@
       "release_date": "2022-01-28"
     },
     {
+      "id": "lets-go-eevee",
+      "title_id": "",
+      "name": "lets go eevee",
+      "genre": "Nhập vai",
+      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
+      "author": "",
+      "version": "1.0.2",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Lets-Go-Eevee/Lets-Go-Eevee__v1.0.2.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjz.jpg",
+      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
+      "release_date": "2018-11-16"
+    },
+    {
       "id": "animal-crossing-new-horizons",
       "title_id": "01006F8002326000",
       "name": "animal crossing new horizons",
