@@ -60,6 +60,20 @@
       "release_date": "2020-05-29"
     },
     {
+      "id": "pokemon-scarlet",
+      "title_id": "",
+      "name": "pokemon scarlet",
+      "genre": "Nhập vai",
+      "description": "The Pokémon Scarlet and Pokémon Violet games, the newest chapters in the Pokémon series, are coming to Nintendo Switch later this year.",
+      "author": "",
+      "version": "3.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Pokemon-Scarlet/Pokemon-Scarlet__v3.0.1.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfi.jpg",
+      "description_vi": "Hai tựa game Pokémon Scarlet và Pokémon Violet, những chương mới nhất trong series Pokémon, sẽ ra mắt trên Nintendo Switch vào cuối năm nay.",
+      "release_date": "2022-11-18"
+    },
+    {
       "id": "pokemon-legends-arceus",
       "title_id": "",
       "name": "pokemon legends arceus",
