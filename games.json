@@ -60,6 +60,20 @@
       "release_date": "2020-05-29"
     },
     {
+      "id": "pokemon-legends-arceus",
+      "title_id": "",
+      "name": "pokemon legends arceus",
+      "genre": "Nhập vai",
+      "description": "The Pokémon Legends: Arceus game honors past Pokémon games’ core gameplay while infusing new action and RPG elements.",
+      "author": "",
+      "version": "1.6.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Pokemon-Legends-Arceus/Pokemon-Legends-Arceus__v1.6.1.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d03.jpg",
+      "description_vi": "Trò chơi Pokémon Legends: Arceus tôn vinh lối chơi cốt lõi của các trò chơi Pokémon trước đây đồng thời bổ sung thêm các yếu tố hành động và nhập vai mới.",
+      "release_date": "2022-01-28"
+    },
+    {
       "id": "animal-crossing-new-horizons",
       "title_id": "01006F8002326000",
       "name": "animal crossing new horizons",
