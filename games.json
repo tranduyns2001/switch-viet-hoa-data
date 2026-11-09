@@ -38,9 +38,9 @@
       "genre": "Nhập vai",
       "description": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure.",
       "author": "",
-      "version": "Chưa xác định",
+      "version": "1.0.1",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/mario-rpg/mario-rpg__vunknown.zip",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/mario-rpg/mario-rpg__v1.0.1.zip",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9n.jpg",
       "description_vi": "Mario, Bowser và Peach hợp tác để sửa chữa Con đường Sao ban điều ước trong cuộc phiêu lưu nhập vai dễ tiếp cận này.",
       "release_date": "2023-11-17"
@@ -128,6 +128,20 @@
       "release_date": "2022-09-09",
       "genre": "Hành động",
       "author": ""
+    },
+    {
+      "id": "zelda-link-awakening",
+      "title_id": "",
+      "name": "zelda link awakening",
+      "genre": "Phiêu lưu",
+      "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam.",
+      "author": "",
+      "version": "1.0.0__v1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/zelda-links-awakening/Zelda-Link-Awakening__v1.0.0__v1.0.1.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qve.jpg",
+      "description_vi": "Trong vai Link, bạn tỉnh dậy ở một vùng đất kỳ lạ cách xa Hyrule, nơi động vật biết nói và quái vật lang thang khắp nơi.",
+      "release_date": "2019-09-20"
     },
     {
       "id": "switch-sports",
