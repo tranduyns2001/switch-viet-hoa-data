@@ -4,20 +4,6 @@
   "updated_at": "2026-11-09",
   "games": [
     {
-      "id": "pokemon-eevee",
-      "title_id": "",
-      "name": "pokemon eevee",
-      "genre": "Nhập vai",
-      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
-      "author": "",
-      "version": "1.0.2",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/pokemon-Eevee/pokemon-Eevee__v1.0.2.zip",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjz.jpg",
-      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
-      "release_date": "2018-11-16"
-    },
-    {
       "id": "xenoblade-chronicles-x",
       "title_id": "",
       "name": "xenoblade chronicles x",
@@ -158,6 +144,20 @@
       "release_date": "2022-01-28"
     },
     {
+      "id": "pokemon-eevee",
+      "title_id": "",
+      "name": "pokemon eevee",
+      "genre": "Nhập vai",
+      "description": "Take your Pokémon journey to the Kanto region with your energetic partner, Pikachu, to become a top Pokémon Trainer as you battle other trainers.",
+      "author": "",
+      "version": "1.0.2",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Pokemon-Eevee/Pokemon-Eevee__v1.0.2.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjz.jpg",
+      "description_vi": "Hãy bắt đầu cuộc hành trình Pokémon của bạn đến vùng Kanto cùng người bạn đồng hành năng động, Pikachu, để trở thành một Huấn luyện viên Pokémon hàng đầu khi bạn chiến đấu với các huấn luyện viên khác.",
+      "release_date": "2018-11-16"
+    },
+    {
       "id": "pokemon-brilliant-diamond",
       "title_id": "",
       "name": "pokemon brilliant diamond",
@@ -170,6 +170,20 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
       "description_vi": "Trở lại vùng Sinnoh và câu chuyện của trò chơi Pokémon Diamond. Trải nghiệm câu chuyện đầy hoài niệm từ trò chơi Pokémon Diamond trong một cuộc phiêu lưu được tái hiện lại, Pokémon Brilliant Diamond,...",
       "release_date": "2021-11-19"
+    },
+    {
+      "id": "mario-rgp",
+      "title_id": "",
+      "name": "mario rgp",
+      "genre": "",
+      "description": "Chưa có mô tả.",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-RGP/Mario-RGP__v1.0.1.zip",
+      "cover": "",
+      "description_vi": "Chưa có mô tả.",
+      "release_date": ""
     },
     {
       "id": "animal-crossing-new-horizons",
@@ -198,20 +212,6 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d9b.jpg",
       "description_vi": "Người dân Hyrule đang bị những vết nứt kỳ lạ bắt cóc, và với một kiếm sĩ nằm trong số những người mất tích, công chúa Zelda phải là người cứu lấy vương quốc của mình.",
       "release_date": "2024-09-26"
-    },
-    {
-      "id": "mario-rpg",
-      "title_id": "0100BC0018138000",
-      "name": "mario rpg",
-      "genre": "Nhập vai",
-      "description": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure.",
-      "author": "",
-      "version": "1.0.1",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/mario-rpg/mario-rpg__v1.0.1.zip",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9n.jpg",
-      "description_vi": "Mario, Bowser và Peach hợp tác để sửa chữa Con đường Sao ban điều ước trong cuộc phiêu lưu nhập vai dễ tiếp cận này.",
-      "release_date": "2023-11-17"
     },
     {
       "id": "prince-of-persia-the-lost-crown",
