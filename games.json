@@ -4,6 +4,20 @@
   "updated_at": "2026-11-11",
   "games": [
     {
+      "id": "shin-chan-summer-vacation",
+      "title_id": "",
+      "name": "shin chan summer vacation",
+      "genre": "Mô phỏng",
+      "description": "The Nohara family has decided to spend their summer vacation in Kumamoto. A week of life begins in the small town of Asso.",
+      "author": "",
+      "version": "1.1.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Shin-chan-Summer-Vacation/Shin-chan-Summer-Vacation__v1.1.1.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4x6z.jpg",
+      "description_vi": "Gia đình Nohara quyết định dành kỳ nghỉ hè của họ ở Kumamoto. Một tuần sinh hoạt bắt đầu ở thị trấn nhỏ Asso.",
+      "release_date": "2021-07-15"
+    },
+    {
       "id": "mario-rpg",
       "title_id": "",
       "name": "mario rpg",
