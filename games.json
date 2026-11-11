@@ -60,6 +60,20 @@
       "release_date": "2021-07-15"
     },
     {
+      "id": "mario-vs-donkey-kong",
+      "title_id": "",
+      "name": "mario vs donkey kong",
+      "genre": "Hành động",
+      "description": "A remake of the first game in the Mario vs. Donkey Kong series, originally released for the Game Boy Advance.",
+      "author": "",
+      "version": "1.0.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-vs-Donkey-Kong/Mario-vs-Donkey-Kong__v1.0.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8eak.jpg",
+      "description_vi": "Đây là phiên bản làm lại của trò chơi đầu tiên trong loạt game Mario vs. Donkey Kong, ban đầu được phát hành cho hệ máy Game Boy Advance.",
+      "release_date": "2024-02-16"
+    },
+    {
       "id": "mario-rpg",
       "title_id": "",
       "name": "mario rpg",
