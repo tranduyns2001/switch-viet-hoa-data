@@ -88,6 +88,20 @@
       "release_date": "2023-11-17"
     },
     {
+      "id": "mario-odyssey",
+      "title_id": "",
+      "name": "mario odyssey",
+      "genre": "Hành động",
+      "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure.",
+      "author": "",
+      "version": "1.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-Odyssey/Mario-Odyssey__v1.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.jpg",
+      "description_vi": "Khám phá những vùng đất kỳ thú nằm ngoài Vương quốc Nấm khi bạn cùng Mario và người bạn đồng hành mới Cappy tham gia vào một cuộc phiêu lưu 3D vòng quanh thế giới quy mô lớn.",
+      "release_date": "2017-10-27"
+    },
+    {
       "id": "little-kitty-big-city",
       "title_id": "",
       "name": "little kitty big city",
