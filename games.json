@@ -116,6 +116,20 @@
       "release_date": "2017-10-27"
     },
     {
+      "id": "mario-luigi-brothership",
+      "title_id": "",
+      "name": "mario luigi brothership",
+      "genre": "Nhập vai",
+      "description": "The brothers return for a brand new adventure on the high seas! Set sail with Mario and Luigi on Shipshape Island (part ship, part island) and journey through the vast world of Concordia.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-Luigi-Brothership/Mario-Luigi-Brothership__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d9a.jpg",
+      "description_vi": "Hai anh em trở lại với một cuộc phiêu lưu hoàn toàn mới trên biển cả! Hãy cùng Mario và Luigi ra khơi trên Đảo Shipshape (một phần là tàu, một phần là đảo) và du hành qua thế giới rộng lớn của Concordia.",
+      "release_date": "2024-11-07"
+    },
+    {
       "id": "luigi-mansion-3",
       "title_id": "",
       "name": "luigi mansion 3",
