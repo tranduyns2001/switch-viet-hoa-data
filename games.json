@@ -130,6 +130,20 @@
       "release_date": "2024-11-07"
     },
     {
+      "id": "mario-kart-8-deluxe",
+      "title_id": "",
+      "name": "mario kart 8 deluxe",
+      "genre": "Hành động",
+      "description": "Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-Kart-8-Deluxe/Mario-Kart-8-Deluxe__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213p.jpg",
+      "description_vi": "Hãy bắt đầu cuộc đua với phiên bản hoàn chỉnh nhất của Mario Kart 8 và chơi mọi lúc, mọi nơi! Đua cùng bạn bè hoặc thách đấu họ trong chế độ chiến đấu được cải tiến trên các đường đua mới và cũ.",
+      "release_date": "2017-04-28"
+    },
+    {
       "id": "luigi-mansion-3",
       "title_id": "",
       "name": "luigi mansion 3",
