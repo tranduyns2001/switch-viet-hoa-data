@@ -4,6 +4,20 @@
   "updated_at": "2026-11-11",
   "games": [
     {
+      "id": "shin-chan-shiro-of-coal-town",
+      "title_id": "",
+      "name": "shin chan shiro of coal town",
+      "genre": "Mô phỏng",
+      "description": "Shin chan starts a mysterious daily routine, traveling between two worlds: the Village in Akita and Coal Town.",
+      "author": "",
+      "version": "new",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Shin-chan-shiro-of-coal-town/Shin-chan-shiro-of-coal-town__vnew.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jco.jpg",
+      "description_vi": "Shin chan bắt đầu một thói quen hàng ngày bí ẩn, di chuyển giữa hai thế giới: ngôi làng ở Akita và thị trấn Than.",
+      "release_date": "2024-02-22"
+    },
+    {
       "id": "shin-chan-summer-vacation",
       "title_id": "",
       "name": "shin chan summer vacation",
