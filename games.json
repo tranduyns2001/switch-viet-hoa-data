@@ -228,6 +228,20 @@
       "release_date": "2024-05-09"
     },
     {
+      "id": "hunterx",
+      "title_id": "",
+      "name": "hunterx",
+      "genre": "Nhập vai",
+      "description": "HunterX is an action-adventure game full of spirited battles. Use various styles of weapons and magic to experience your own fighting style and explore a great world.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/HunterX/HunterX__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rzd.jpg",
+      "description_vi": "HunterX là một trò chơi hành động phiêu lưu đầy những trận chiến gay cấn. Sử dụng nhiều loại vũ khí và phép thuật khác nhau để trải nghiệm phong cách chiến đấu của riêng bạn và khám phá một thế giới rộng lớn.",
+      "release_date": "2022-04-28"
+    },
+    {
       "id": "football-manager-2024",
       "title_id": "",
       "name": "football manager 2024",
