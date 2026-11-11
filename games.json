@@ -46,6 +46,20 @@
       "release_date": "2023-11-17"
     },
     {
+      "id": "little-kitty-big-city",
+      "title_id": "",
+      "name": "little kitty big city",
+      "genre": "Phiêu lưu",
+      "description": "You're a curious little kitty with a big personality, on an adventure to find your way back home.",
+      "author": "",
+      "version": "1.0.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Little-Kitty-Big-City/Little-Kitty-Big-City__v1.0.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mbt.jpg",
+      "description_vi": "Bạn là một chú mèo con tò mò với cá tính mạnh mẽ, đang trên một cuộc phiêu lưu tìm đường về nhà.",
+      "release_date": "2024-05-09"
+    },
+    {
       "id": "dragon-ball-fighterz",
       "title_id": "",
       "name": "dragon ball fighterz",
