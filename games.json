@@ -18,6 +18,20 @@
       "release_date": ""
     },
     {
+      "id": "dragon-ball-fighterz",
+      "title_id": "",
+      "name": "dragon ball fighterz",
+      "genre": "Hành động",
+      "description": "Dragon Ball FighterZ is born from what makes the Dragon Ball series so loved and famous: endless spectacular fights with its all-powerful fighters.",
+      "author": "",
+      "version": "1.33",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/DRAGON-BALL-FIGHTERZ/DRAGON-BALL-FIGHTERZ__v1.33.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nih.jpg",
+      "description_vi": "Dragon Ball FighterZ ra đời từ những yếu tố đã làm nên sự yêu thích và nổi tiếng của loạt phim Dragon Ball: những trận chiến ngoạn mục bất tận với các chiến binh toàn năng.",
+      "release_date": "2018-01-26"
+    },
+    {
       "id": "xenoblade-chronicles-x",
       "title_id": "",
       "name": "xenoblade chronicles x",
