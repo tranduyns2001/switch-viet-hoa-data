@@ -60,6 +60,20 @@
       "release_date": "2021-07-15"
     },
     {
+      "id": "paper-mario",
+      "title_id": "",
+      "name": "paper mario",
+      "genre": "Nhập vai",
+      "description": "Join Mario and his new companion Olivia on a comedic adventure that will take you to the far corners of a papercraft world in Paper Mario: The Origami King on Nintendo Switch!",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Paper-Mario/Paper-Mario__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob89j.jpg",
+      "description_vi": "Hãy cùng Mario và người bạn đồng hành mới Olivia tham gia vào một cuộc phiêu lưu hài hước đưa bạn đến những góc xa xôi nhất của thế giới giấy trong Paper Mario: The Origami King trên Nintendo Switch!",
+      "release_date": "2020-07-17"
+    },
+    {
       "id": "mario-vs-donkey-kong",
       "title_id": "",
       "name": "mario vs donkey kong",
