@@ -270,6 +270,20 @@
       "release_date": "2018-01-26"
     },
     {
+      "id": "coffee-talk",
+      "title_id": "",
+      "name": "coffee talk",
+      "genre": "Mô phỏng",
+      "description": "Coffee Talk is a coffee brewing and heart-to-heart talking simulator about listening to fantasy-inspired modern peoples’ problems, and helping them by serving up a warm drink or two.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Coffee-Talk/Coffee-Talk__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55rx.jpg",
+      "description_vi": "Coffee Talk là một trò chơi mô phỏng pha cà phê và trò chuyện tâm sự, lắng nghe những vấn đề của những người hiện đại lấy cảm hứng từ thế giới tưởng tượng, và giúp đỡ họ bằng cách pha cho họ một hoặc hai ly đồ uống ấm áp.",
+      "release_date": "2020-01-29"
+    },
+    {
       "id": "xenoblade-chronicles-x",
       "title_id": "",
       "name": "xenoblade chronicles x",
