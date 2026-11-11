@@ -284,6 +284,20 @@
       "release_date": "2018-01-26"
     },
     {
+      "id": "contra-operation-galuga",
+      "title_id": "",
+      "name": "contra operation galuga",
+      "genre": "Hành động",
+      "description": "The legendary Contra series is back! Contra: Operation Galuga is a modern reimagining of the classic run-‘n’-gun action game from the ’80s, featuring modern graphics and sound.",
+      "author": "",
+      "version": "1.0882291_dlc-v131072",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Contra-Operation-Galuga/Contra-Operation-Galuga__v1.0882291_dlc-v131072.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72z7.jpg",
+      "description_vi": "Loạt game Contra huyền thoại đã trở lại! Contra: Operation Galuga là phiên bản hiện đại hóa của tựa game hành động bắn súng kinh điển thập niên 80, với đồ họa và âm thanh hiện đại.",
+      "release_date": "2024-03-12"
+    },
+    {
       "id": "coffee-talk",
       "title_id": "",
       "name": "coffee talk",
