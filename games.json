@@ -4,6 +4,20 @@
   "updated_at": "2026-11-11",
   "games": [
     {
+      "id": "mario-rgp",
+      "title_id": "",
+      "name": "mario rgp",
+      "genre": "",
+      "description": "Chưa có mô tả.",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/mario-rgp/mario-rgp__v1.0.1.zip",
+      "cover": "",
+      "description_vi": "Chưa có mô tả.",
+      "release_date": ""
+    },
+    {
       "id": "xenoblade-chronicles-x",
       "title_id": "",
       "name": "xenoblade chronicles x",
@@ -170,20 +184,6 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
       "description_vi": "Trở lại vùng Sinnoh và câu chuyện của trò chơi Pokémon Diamond. Trải nghiệm câu chuyện đầy hoài niệm từ trò chơi Pokémon Diamond trong một cuộc phiêu lưu được tái hiện lại, Pokémon Brilliant Diamond,...",
       "release_date": "2021-11-19"
-    },
-    {
-      "id": "mario-rgp",
-      "title_id": "",
-      "name": "mario rgp",
-      "genre": "",
-      "description": "Chưa có mô tả.",
-      "author": "",
-      "version": "1.0.1",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-RGP/Mario-RGP__v1.0.1.zip",
-      "cover": "",
-      "description_vi": "Chưa có mô tả.",
-      "release_date": ""
     },
     {
       "id": "animal-crossing-new-horizons",
