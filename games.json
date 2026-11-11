@@ -18,6 +18,20 @@
       "release_date": "2018-12-07"
     },
     {
+      "id": "super-mario-bros-wonder",
+      "title_id": "",
+      "name": "super mario bros wonder",
+      "genre": "Hành động",
+      "description": "Super Mario Bros. Wonder is a side-scrolling platform game and the first 2D Super Mario entry since New Super Mario Bros. U (2012).",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Super-Mario-Bros-Wonder/Super-Mario-Bros-Wonder__v1.0.1.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nnl.jpg",
+      "description_vi": "Super Mario Bros. Wonder là một trò chơi platform màn hình ngang và là phiên bản Super Mario 2D đầu tiên kể từ New Super Mario Bros. U (2012).",
+      "release_date": "2023-10-20"
+    },
+    {
       "id": "shin-chan-shiro-of-coal-town",
       "title_id": "",
       "name": "shin chan shiro of coal town",
