@@ -116,6 +116,20 @@
       "release_date": "2017-10-27"
     },
     {
+      "id": "luigi-mansion-3",
+      "title_id": "",
+      "name": "luigi mansion 3",
+      "genre": "Phiêu lưu",
+      "description": "Luigi embarks on a dream vacation with Mario and friends upon receiving an invitation to a luxurious hotel.",
+      "author": "",
+      "version": "1.4.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Luigi-Mansion-3/Luigi-Mansion-3__v1.4.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22a9.jpg",
+      "description_vi": "Luigi bắt đầu một kỳ nghỉ trong mơ cùng Mario và những người bạn sau khi nhận được lời mời đến một khách sạn sang trọng.",
+      "release_date": "2019-10-31"
+    },
+    {
       "id": "little-kitty-big-city",
       "title_id": "",
       "name": "little kitty big city",
