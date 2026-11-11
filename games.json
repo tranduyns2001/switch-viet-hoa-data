@@ -4,6 +4,20 @@
   "updated_at": "2026-11-11",
   "games": [
     {
+      "id": "super-smash-bros-ultimate",
+      "title_id": "",
+      "name": "super smash bros ultimate",
+      "genre": "Hành động",
+      "description": "Super Smash Bros. Ultimate is a crossover fighting game for the Nintendo Switch and the fifth main entry in the series.",
+      "author": "",
+      "version": "13.0.3_dlc-v1900544",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Super-Smash-Bros-Ultimate/Super-Smash-Bros-Ultimate__v13.0.3_dlc-v1900544.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2255.jpg",
+      "description_vi": "Super Smash Bros. Ultimate là một trò chơi đối kháng kết hợp nhiều nhân vật dành cho Nintendo Switch và là phần chính thứ năm trong loạt game này.",
+      "release_date": "2018-12-07"
+    },
+    {
       "id": "shin-chan-shiro-of-coal-town",
       "title_id": "",
       "name": "shin chan shiro of coal town",
