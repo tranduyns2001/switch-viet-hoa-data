@@ -88,6 +88,20 @@
       "release_date": "2023-11-17"
     },
     {
+      "id": "mario-party-superstars",
+      "title_id": "",
+      "name": "mario party superstars",
+      "genre": "Khác",
+      "description": "Calling all Superstars! Mario Party is back with 5 classic boards from the Nintendo 64 Mario Party games.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-Party-Superstars/Mario-Party-Superstars__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9yl.jpg",
+      "description_vi": "Kêu gọi tất cả các Siêu sao! Mario Party đã trở lại với 5 bàn chơi kinh điển từ loạt game Mario Party trên Nintendo 64.",
+      "release_date": "2021-10-28"
+    },
+    {
       "id": "mario-party-jamboree",
       "title_id": "",
       "name": "mario party jamboree",
