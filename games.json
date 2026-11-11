@@ -4,6 +4,20 @@
   "updated_at": "2026-11-11",
   "games": [
     {
+      "id": "mario-rpg",
+      "title_id": "",
+      "name": "mario rpg",
+      "genre": "Nhập vai",
+      "description": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure.",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-RPG/Mario-RPG__v1.0.1.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9n.jpg",
+      "description_vi": "Mario, Bowser và Peach hợp tác để sửa chữa Con đường Sao ban điều ước trong cuộc phiêu lưu nhập vai dễ tiếp cận này.",
+      "release_date": "2023-11-17"
+    },
+    {
       "id": "dragon-ball-fighterz",
       "title_id": "",
       "name": "dragon ball fighterz",
