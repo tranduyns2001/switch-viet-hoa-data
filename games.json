@@ -214,6 +214,20 @@
       "release_date": "2024-05-09"
     },
     {
+      "id": "football-manager-2024",
+      "title_id": "",
+      "name": "football manager 2024",
+      "genre": "Mô phỏng",
+      "description": "Progress never stops when you're pursuing footballing greatness. Gameplay upgrades empower you to develop a blueprint for success on and off the pitch. Pre-order for 10% off and Early Access*.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Football-Manager-2024/Football-Manager-2024__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co73z1.jpg",
+      "description_vi": "Sự tiến bộ không bao giờ dừng lại khi bạn theo đuổi sự vĩ đại trong bóng đá. Những nâng cấp lối chơi cho phép bạn xây dựng kế hoạch thành công trong và ngoài sân cỏ. Đặt trước để được giảm giá 10% và truy cập sớm*.",
+      "release_date": "2023-11-06"
+    },
+    {
       "id": "dragon-ball-fighterz",
       "title_id": "",
       "name": "dragon ball fighterz",
