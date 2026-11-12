@@ -4,6 +4,20 @@
   "updated_at": "2026-11-12",
   "games": [
     {
+      "id": "metro-last-light",
+      "title_id": "",
+      "name": "metro last light",
+      "genre": "Sinh tồn",
+      "description": "Metro: Last Light Redux is the definitive version of the critically acclaimed ‘Metro: Last Light’, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Metro-Last-Light/Metro-Last-Light__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar10.jpg",
+      "description_vi": "Metro: Last Light Redux là phiên bản hoàn chỉnh nhất của tựa game Metro: Last Light được giới phê bình đánh giá cao, được xây dựng lại trên phiên bản mới nhất và tốt nhất của công nghệ 4A Engine dành cho thế hệ máy chơi game tiếp theo.",
+      "release_date": "2014-08-26"
+    },
+    {
       "id": "metro-2033",
       "title_id": "",
       "name": "metro 2033",
