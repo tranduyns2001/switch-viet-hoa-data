@@ -4,6 +4,20 @@
   "updated_at": "2026-11-12",
   "games": [
     {
+      "id": "doraemon-story-of-seasons",
+      "title_id": "",
+      "name": "doraemon story of seasons",
+      "genre": "Nhập vai",
+      "description": "Nobita and friends carefree and heartwarming farm life begin in Natura, the game's original town where a mysterious big tree rises.",
+      "author": "",
+      "version": "new.zip",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/doraemon-story-of-seasons/doraemon-story-of-seasons__vnew.zip.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co23jt.jpg",
+      "description_vi": "Cuộc sống nông trại vô tư và ấm áp của Nobita và những người bạn bắt đầu ở Natura, thị trấn đầu tiên trong trò chơi, nơi một cây cổ thụ bí ẩn mọc lên.",
+      "release_date": "2019-06-13"
+    },
+    {
       "id": "metroid-dread",
       "title_id": "",
       "name": "metroid dread",
