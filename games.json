@@ -60,6 +60,20 @@
       "release_date": "2024-11-14"
     },
     {
+      "id": "dragon-quest-treasures",
+      "title_id": "",
+      "name": "dragon quest treasures",
+      "genre": "Nhập vai",
+      "description": "Dragon Quest Treasures is an all-new RPG spinoff starring Erik and Mia from Dragon Quest XI.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/DRAGON-QUEST-TREASURES/DRAGON-QUEST-TREASURES__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc48.jpg",
+      "description_vi": "Dragon Quest Treasures là một game nhập vai (RPG) hoàn toàn mới, với nhân vật chính là Erik và Mia từ Dragon Quest XI.",
+      "release_date": "2022-12-09"
+    },
+    {
       "id": "super-smash-bros-ultimate",
       "title_id": "",
       "name": "super smash bros ultimate",
