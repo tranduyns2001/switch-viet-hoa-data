@@ -18,6 +18,20 @@
       "release_date": "2019-06-13"
     },
     {
+      "id": "doraemon-sos-great-kingdom",
+      "title_id": "",
+      "name": "doraemon sos great kingdom",
+      "genre": "",
+      "description": "Chưa có mô tả.",
+      "author": "",
+      "version": "new.zip",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/doraemon-sos-great-kingdom/doraemon-sos-great-kingdom__vnew.zip.zip",
+      "cover": "",
+      "description_vi": "Chưa có mô tả.",
+      "release_date": ""
+    },
+    {
       "id": "metroid-dread",
       "title_id": "",
       "name": "metroid dread",
