@@ -4,6 +4,20 @@
   "updated_at": "2026-11-12",
   "games": [
     {
+      "id": "metroid-dread",
+      "title_id": "",
+      "name": "metroid dread",
+      "genre": "Hành động",
+      "description": "Join intergalactic bounty hunter Samus Aran in her first new 2D Metroid story in 19 years.",
+      "author": "",
+      "version": "1.0.1",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Metroid-Dread/Metroid-Dread__v1.0.1.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9g.jpg",
+      "description_vi": "Hãy cùng nữ thợ săn tiền thưởng liên ngân hà Samus Aran tham gia vào câu chuyện Metroid 2D mới đầu tiên của cô ấy sau 19 năm.",
+      "release_date": "2021-10-07"
+    },
+    {
       "id": "metro-last-light",
       "title_id": "",
       "name": "metro last light",
