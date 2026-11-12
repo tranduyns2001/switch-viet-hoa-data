@@ -32,6 +32,20 @@
       "release_date": "2014-08-26"
     },
     {
+      "id": "fire-emblem-three-houses",
+      "title_id": "",
+      "name": "fire emblem three houses",
+      "genre": "Nhập vai",
+      "description": "Fire Emblem: Three Houses is a tactical role-playing game developed by Intelligent Systems and Koei Tecmo for the Nintendo Switch.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Fire-Emblem-Three-Houses/Fire-Emblem-Three-Houses__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n8t.jpg",
+      "description_vi": "Fire Emblem: Three Houses là một trò chơi nhập vai chiến thuật được phát triển bởi Intelligent Systems và Koei Tecmo dành cho hệ máy Nintendo Switch.",
+      "release_date": "2019-07-26"
+    },
+    {
       "id": "dragon-quest-xi",
       "title_id": "",
       "name": "dragon quest xi",
