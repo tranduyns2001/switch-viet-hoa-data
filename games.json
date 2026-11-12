@@ -4,6 +4,20 @@
   "updated_at": "2026-11-12",
   "games": [
     {
+      "id": "kirby-and-the-forgotten-land",
+      "title_id": "",
+      "name": "kirby and the forgotten land",
+      "genre": "Hành động",
+      "description": "Join Kirby in an unforgettable journey through a mysterious world in a delightful 3D platforming adventure.",
+      "author": "",
+      "version": "new",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/kirby-and-the-forgotten-land/kirby-and-the-forgotten-land__vnew.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vlw.jpg",
+      "description_vi": "Hãy cùng Kirby tham gia vào một cuộc hành trình khó quên qua một thế giới bí ẩn trong cuộc phiêu lưu platform 3D đầy thú vị.",
+      "release_date": "2022-03-25"
+    },
+    {
       "id": "doraemon-story-of-seasons",
       "title_id": "",
       "name": "doraemon story of seasons",
