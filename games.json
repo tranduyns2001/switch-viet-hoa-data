@@ -32,6 +32,20 @@
       "release_date": "2014-08-26"
     },
     {
+      "id": "dragon-quest-iii-2d-hd-remake",
+      "title_id": "",
+      "name": "dragon quest iii 2d hd remake",
+      "genre": "Nhập vai",
+      "description": "The Dragon Quest III HD-2D Remake is a modernized turn-based JRPG that follows a hero’s quest to defeat the archfiend Baramos.",
+      "author": "",
+      "version": "1.0.1_dlc-full5",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Dragon-Quest-III-2D-HD-Remake/Dragon-Quest-III-2D-HD-Remake__v1.0.1_dlc-full5.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d90.jpg",
+      "description_vi": "Dragon Quest III HD-2D Remake là một tựa game nhập vai Nhật Bản (JRPG) theo lượt được hiện đại hóa, kể về hành trình của một người anh hùng nhằm đánh bại ác quỷ Baramos.",
+      "release_date": "2024-11-14"
+    },
+    {
       "id": "super-smash-bros-ultimate",
       "title_id": "",
       "name": "super smash bros ultimate",
