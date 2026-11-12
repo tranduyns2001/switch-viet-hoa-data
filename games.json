@@ -46,6 +46,20 @@
       "release_date": "2019-07-26"
     },
     {
+      "id": "fire-emblem-engage",
+      "title_id": "",
+      "name": "fire emblem engage",
+      "genre": "Nhập vai",
+      "description": "Become the Divine Dragon and save the continent of Elyos! Summon valiant heroes like Marth & Celica alongside a new cast of characters and engage in turn-based, tactical combat against a great evil...",
+      "author": "",
+      "version": "2.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Fire-Emblem-Engage/Fire-Emblem-Engage__v2.0.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5d3.jpg",
+      "description_vi": "Trở thành Thần Long và cứu lấy lục địa Elyos! Triệu hồi những anh hùng dũng mãnh như Marth & Celica cùng dàn nhân vật mới và tham gia vào những trận chiến theo lượt, mang tính chiến thuật chống lại một thế lực tà ác...",
+      "release_date": "2023-01-20"
+    },
+    {
       "id": "dragon-quest-xi",
       "title_id": "",
       "name": "dragon quest xi",
