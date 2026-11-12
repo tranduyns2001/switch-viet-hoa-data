@@ -74,6 +74,20 @@
       "release_date": "2014-08-26"
     },
     {
+      "id": "hollow-knight",
+      "title_id": "",
+      "name": "hollow knight",
+      "genre": "Hành động",
+      "description": "A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets...",
+      "author": "",
+      "version": "new",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Hollow-Knight/Hollow-Knight__vnew.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfzp.jpg",
+      "description_vi": "Một trò chơi Metroidvania 2D tập trung vào cận chiến và khám phá, trong đó người chơi bước vào vương quốc côn trùng Hallownest từng thịnh vượng nay đã trở nên ảm đạm, du hành qua các khu vực khác nhau, gặp gỡ...",
+      "release_date": "2017-02-24"
+    },
+    {
       "id": "fire-emblem-three-houses",
       "title_id": "",
       "name": "fire emblem three houses",
