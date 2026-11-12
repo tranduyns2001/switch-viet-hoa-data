@@ -32,6 +32,20 @@
       "release_date": "2014-08-26"
     },
     {
+      "id": "dragon-quest-xi",
+      "title_id": "",
+      "name": "dragon quest xi",
+      "genre": "Nhập vai",
+      "description": "The Definitive Edition includes all the content from the original release of the acclaimed DRAGON QUEST XI, and adds extra character-specific scenarios, the choice of playing with the original...",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Dragon-Quest-XI/Dragon-Quest-XI__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x9f.jpg",
+      "description_vi": "Phiên bản Definitive Edition bao gồm tất cả nội dung từ phiên bản gốc của tựa game DRAGON QUEST XI nổi tiếng, đồng thời bổ sung thêm các kịch bản dành riêng cho từng nhân vật, cũng như tùy chọn chơi với đội hình gốc...",
+      "release_date": "2019-09-27"
+    },
+    {
       "id": "dragon-quest-iii-2d-hd-remake",
       "title_id": "",
       "name": "dragon quest iii 2d hd remake",
