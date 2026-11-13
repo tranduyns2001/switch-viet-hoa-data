@@ -4,6 +4,20 @@
   "updated_at": "2026-11-13",
   "games": [
     {
+      "id": "persona-5-royal",
+      "title_id": "",
+      "name": "persona 5 royal",
+      "genre": "Nhập vai",
+      "description": "Persona 5 Royal is an enhanced version of the turn-based role-playing game Persona 5, set in modern-day Tokyo.",
+      "author": "",
+      "version": "1.11",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Persona-5-Royal/Persona-5-Royal__V1.11.zip.001",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf1.jpg",
+      "description_vi": "Persona 5 Royal là phiên bản nâng cấp của trò chơi nhập vai theo lượt Persona 5, lấy bối cảnh Tokyo hiện đại.",
+      "release_date": "2019-10-31"
+    },
+    {
       "id": "doraemon-friends-of-the-great-kingdom",
       "title_id": "",
       "name": "doraemon friends of the great kingdom",
