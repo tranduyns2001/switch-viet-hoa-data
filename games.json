@@ -18,6 +18,20 @@
       "release_date": "2022-11-01"
     },
     {
+      "id": "diablo-2",
+      "title_id": "",
+      "name": "diablo 2",
+      "genre": "Nhập vai",
+      "description": "Diablo II: Resurrected breathes new life into Blizzard Entertainment’s acclaimed ARPG and its expansion, Diablo II: Lord of Destruction, from beginning to end.",
+      "author": "",
+      "version": "uknown",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Diablo-2/Diablo-2__vuknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gbk.jpg",
+      "description_vi": "Diablo II: Resurrected thổi luồng sinh khí mới vào tựa game nhập vai hành động (ARPG) nổi tiếng của Blizzard Entertainment và bản mở rộng Diablo II: Lord of Destruction, từ đầu đến cuối.",
+      "release_date": "2021-09-22"
+    },
+    {
       "id": "cadence-of-hyrule",
       "title_id": "",
       "name": "cadence of hyrule",
