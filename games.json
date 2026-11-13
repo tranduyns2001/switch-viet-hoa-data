@@ -4,6 +4,20 @@
   "updated_at": "2026-11-13",
   "games": [
     {
+      "id": "doraemon-friends-of-the-great-kingdom",
+      "title_id": "",
+      "name": "doraemon friends of the great kingdom",
+      "genre": "Mô phỏng",
+      "description": "Doraemon, Noby and their friends land on an unknown planet and decide to help a new friend fulfill his dreams—by farming! Plow the fields, harvest crops and tend to the animals.",
+      "author": "",
+      "version": "new.zip",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Doraemon-Friends-of-the-Great-Kingdom/Doraemon-Friends-of-the-Great-Kingdom__vnew.zip.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4x7s.jpg",
+      "description_vi": "Doraemon, Noby và những người bạn của họ đáp xuống một hành tinh xa lạ và quyết định giúp một người bạn mới thực hiện ước mơ của mình—bằng cách làm nông! Cày ruộng, thu hoạch mùa màng và chăm sóc động vật.",
+      "release_date": "2022-11-01"
+    },
+    {
       "id": "kirby-and-the-forgotten-land",
       "title_id": "",
       "name": "kirby and the forgotten land",
@@ -30,20 +44,6 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co23jt.jpg",
       "description_vi": "Cuộc sống nông trại vô tư và ấm áp của Nobita và những người bạn bắt đầu ở Natura, thị trấn đầu tiên trong trò chơi, nơi một cây cổ thụ bí ẩn mọc lên.",
       "release_date": "2019-06-13"
-    },
-    {
-      "id": "doraemon-sos-great-kingdom",
-      "title_id": "",
-      "name": "doraemon sos great kingdom",
-      "genre": "",
-      "description": "Chưa có mô tả.",
-      "author": "",
-      "version": "new.zip",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/doraemon-sos-great-kingdom/doraemon-sos-great-kingdom__vnew.zip.zip",
-      "cover": "",
-      "description_vi": "Chưa có mô tả.",
-      "release_date": ""
     },
     {
       "id": "metroid-dread",
