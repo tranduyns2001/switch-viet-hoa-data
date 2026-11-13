@@ -18,6 +18,20 @@
       "release_date": "2022-11-01"
     },
     {
+      "id": "cadence-of-hyrule",
+      "title_id": "",
+      "name": "cadence of hyrule",
+      "genre": "Phiêu lưu",
+      "description": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda is a rhythmic action-adventure game where you can enjoy the gameplay of Crypt of the NecroDancer in the setting of The Legend...",
+      "author": "",
+      "version": "new",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Cadence-of-Hyrule/Cadence-of-Hyrule__vnew.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob88s.jpg",
+      "description_vi": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda là một trò chơi phiêu lưu hành động theo nhịp điệu, nơi bạn có thể tận hưởng lối chơi của Crypt of the NecroDancer trong bối cảnh của The Legend of Zelda...",
+      "release_date": "2019-06-13"
+    },
+    {
       "id": "kirby-and-the-forgotten-land",
       "title_id": "",
       "name": "kirby and the forgotten land",
