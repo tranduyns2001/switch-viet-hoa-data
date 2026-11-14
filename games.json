@@ -74,6 +74,20 @@
       "release_date": "2020-10-28"
     },
     {
+      "id": "the-witcher-3",
+      "title_id": "",
+      "name": "the witcher 3",
+      "genre": "Nhập vai",
+      "description": "The Witcher 3: Wild Hunt is an open-world action role-playing game developed by CD Projekt Red.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/The-Witcher-3/The-Witcher-3__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarl.jpg",
+      "description_vi": "The Witcher 3: Wild Hunt là một trò chơi nhập vai hành động thế giới mở được phát triển bởi CD Projekt Red.",
+      "release_date": "2015-05-19"
+    },
+    {
       "id": "balatro",
       "title_id": "",
       "name": "balatro",
