@@ -18,6 +18,20 @@
       "release_date": "2018-11-20"
     },
     {
+      "id": "yakuza-kiwami",
+      "title_id": "",
+      "name": "yakuza kiwami",
+      "genre": "Nhập vai",
+      "description": "Yakuza: Kiwami is an enhanced remake of the original Yakuza game for PlayStation 2, not just an HD port.",
+      "author": "",
+      "version": "new",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Yakuza-Kiwami/Yakuza-Kiwami__vnew.zip.001",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1qh.jpg",
+      "description_vi": "Yakuza: Kiwami là phiên bản làm lại được nâng cấp của trò chơi Yakuza gốc trên PlayStation 2, chứ không chỉ đơn thuần là bản port HD.",
+      "release_date": "2016-01-21"
+    },
+    {
       "id": "assassins-creed-iii-remastered",
       "title_id": "",
       "name": "assassins creed iii remastered",
