@@ -32,18 +32,18 @@
       "release_date": "2018-11-20"
     },
     {
-      "id": "yokai-watch-4",
+      "id": "yo-kai-watch-4",
       "title_id": "",
-      "name": "yokai watch 4",
-      "genre": "",
-      "description": "Plot overviewFor thousands of years, the Yokai-girls in the \"Country of Yamato\" lived in peace with human beings, but the Yokai-girls suddenly rioted, and the whole world lost its color.",
+      "name": "yo kai watch 4",
+      "genre": "Phiêu lưu",
+      "description": "A grand journey that goes beyond the time and space of the world in which Natsume, Nate, and Shin live in.",
       "author": "",
       "version": "Chưa xác định",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Yokai-Watch-4/Yokai-Watch-4__vunknown.zip",
-      "cover": "",
-      "description_vi": "Tóm tắt cốt truyện: Trong hàng nghìn năm, các cô gái yêu quái ở \"Quốc gia Yamato\" sống hòa bình với con người, nhưng đột nhiên họ nổi loạn, và cả thế giới mất đi màu sắc vốn có.",
-      "release_date": "2020-02-06"
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Yo-kai-Watch-4/Yo-kai-Watch-4__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7l9s.jpg",
+      "description_vi": "Một cuộc hành trình vĩ đại vượt ra ngoài không gian và thời gian của thế giới mà Natsume, Nate và Shin đang sinh sống.",
+      "release_date": "2019-06-20"
     },
     {
       "id": "yakuza-kiwami",
