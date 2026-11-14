@@ -88,6 +88,20 @@
       "release_date": "2019-03-29"
     },
     {
+      "id": "amnesia",
+      "title_id": "",
+      "name": "amnesia",
+      "genre": "Phiêu lưu",
+      "description": "Forth game in Amnesia otome visual novel series.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Amnesia/Amnesia__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21wr.jpg",
+      "description_vi": "Trò chơi thứ tư trong series tiểu thuyết hình ảnh otome Amnesia.",
+      "release_date": "2014-05-22"
+    },
+    {
       "id": "persona-5-royal",
       "title_id": "",
       "name": "persona 5 royal",
