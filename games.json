@@ -60,6 +60,20 @@
       "release_date": "2016-01-21"
     },
     {
+      "id": "balatro",
+      "title_id": "",
+      "name": "balatro",
+      "genre": "Khác",
+      "description": "Balatro is a deck-building roguelite in which players construct poker hands to earn chips and overcome enemy blinds.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Balatro/Balatro__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg",
+      "description_vi": "Balatro là một trò chơi roguelite xây dựng bộ bài, trong đó người chơi tạo ra các bộ bài poker để kiếm chip và vượt qua các lượt đặt cược của đối thủ.",
+      "release_date": "2024-02-20"
+    },
+    {
       "id": "assassins-creed-iii-remastered",
       "title_id": "",
       "name": "assassins creed iii remastered",
