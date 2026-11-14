@@ -88,29 +88,15 @@
       "release_date": "2015-05-19"
     },
     {
-      "id": "naruto-x-boruto-ultimate-ninja-storm-connections",
-      "title_id": "",
-      "name": "naruto x boruto ultimate ninja storm connections",
-      "genre": "Hành động",
-      "description": "The next exciting entry in the STORM series, celebrating the 20th anniversary of Naruto's anime debut, releases 2023!",
-      "author": "",
-      "version": "1.71_1",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/NARUTO-X-BORUTO-Ultimate/naruto-x-boruto-ultimate-ninja-storm-connections__v1.71_1.zip",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jto.jpg",
-      "description_vi": "Phần tiếp theo đầy hấp dẫn trong series STORM, kỷ niệm 20 năm ngày ra mắt anime Naruto, sẽ được phát hành vào năm 2023!",
-      "release_date": "2023-11-16"
-    },
-    {
       "id": "naruto-x-boruto-ultimate",
       "title_id": "",
       "name": "naruto x boruto ultimate",
       "genre": "Hành động",
       "description": "The next exciting entry in the STORM series, celebrating the 20th anniversary of Naruto's anime debut, releases 2023!",
       "author": "",
-      "version": "unknown_jb",
+      "version": "1.71_us",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/NARUTO-X-BORUTO-Ultimate/NARUTO-X-BORUTO-Ultimate__vunknown_jb.rar",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/NARUTO-X-BORUTO-Ultimate/Naruto-X-Boruto-Ultimate__v1.71_us.zip",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jto.jpg",
       "description_vi": "Phần tiếp theo đầy hấp dẫn trong series STORM, kỷ niệm 20 năm ngày ra mắt anime Naruto, sẽ được phát hành vào năm 2023!",
       "release_date": "2023-11-16"
