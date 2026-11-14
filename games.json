@@ -88,6 +88,20 @@
       "release_date": "2015-05-19"
     },
     {
+      "id": "naruto-x-boruto-ultimate",
+      "title_id": "",
+      "name": "naruto x boruto ultimate",
+      "genre": "Hành động",
+      "description": "The next exciting entry in the STORM series, celebrating the 20th anniversary of Naruto's anime debut, releases 2023!",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/NARUTO-X-BORUTO-Ultimate/NARUTO-X-BORUTO-Ultimate__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jto.jpg",
+      "description_vi": "Phần tiếp theo đầy hấp dẫn trong series STORM, kỷ niệm 20 năm ngày ra mắt anime Naruto, sẽ được phát hành vào năm 2023!",
+      "release_date": "2023-11-16"
+    },
+    {
       "id": "balatro",
       "title_id": "",
       "name": "balatro",
