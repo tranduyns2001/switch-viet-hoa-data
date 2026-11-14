@@ -4,6 +4,20 @@
   "updated_at": "2026-11-14",
   "games": [
     {
+      "id": "youtubers-life-omg",
+      "title_id": "",
+      "name": "youtubers life omg",
+      "genre": "Mô phỏng",
+      "description": "The OMG Edition of Youtubers Life is the console version of the earlier PC release. The game features three \"channels\" for players to explore: Gaming, Music and cooking.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Youtubers-Life-OMG/Youtubers-Life-OMG__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27gq.jpg",
+      "description_vi": "Phiên bản OMG của Youtubers Life là phiên bản dành cho máy chơi game console của phiên bản PC trước đó. Trò chơi có ba \"kênh\" để người chơi khám phá: Chơi game, Âm nhạc và Nấu ăn.",
+      "release_date": "2018-11-20"
+    },
+    {
       "id": "persona-5-royal",
       "title_id": "",
       "name": "persona 5 royal",
