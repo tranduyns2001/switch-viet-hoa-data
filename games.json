@@ -60,6 +60,20 @@
       "release_date": "2016-01-21"
     },
     {
+      "id": "xuan-yuan-sword-7",
+      "title_id": "",
+      "name": "xuan yuan sword 7",
+      "genre": "Nhập vai",
+      "description": "Xuan-Yuan Sword VII is an ARPG rooted in Chinese history and mythology. Players take on the role of Taishi Zhao, a calm and reliable swordsman who was accidentally involved in a tragic fate.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Xuan-Yuan-Sword-7/Xuan-Yuan-Sword-7__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i5j.jpg",
+      "description_vi": "Xuan-Yuan Sword VII là một game nhập vai hành động (ARPG) lấy bối cảnh lịch sử và thần thoại Trung Quốc. Người chơi sẽ vào vai Taishi Zhao, một kiếm sĩ điềm tĩnh và đáng tin cậy, người vô tình vướng vào một số phận bi thảm.",
+      "release_date": "2020-10-28"
+    },
+    {
       "id": "balatro",
       "title_id": "",
       "name": "balatro",
