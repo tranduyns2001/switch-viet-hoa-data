@@ -18,6 +18,20 @@
       "release_date": "2018-11-20"
     },
     {
+      "id": "assassins-creed-iii-remastered",
+      "title_id": "",
+      "name": "assassins creed iii remastered",
+      "genre": "Nhập vai",
+      "description": "Relive the American Revolution or experience it for the first time in Assassin's Creed III Remastered, with enhanced graphics and improved gameplay mechanics.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Assassins-Creed-III-Remastered/Assassins-Creed-III-Remastered__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gjw.jpg",
+      "description_vi": "Sống lại cuộc Cách mạng Mỹ hoặc trải nghiệm nó lần đầu tiên trong Assassin's Creed III Remastered, với đồ họa được nâng cấp và cơ chế gameplay được cải tiến.",
+      "release_date": "2019-03-29"
+    },
+    {
       "id": "persona-5-royal",
       "title_id": "",
       "name": "persona 5 royal",
