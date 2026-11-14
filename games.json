@@ -4,6 +4,20 @@
   "updated_at": "2026-11-14",
   "games": [
     {
+      "id": "zengeon",
+      "title_id": "",
+      "name": "zengeon",
+      "genre": "Nhập vai",
+      "description": "Zengeon is an anime infused Action RPG and Roguelite with a selection of unique characters and varying play-styles.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Zengeon/Zengeon__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bzz.jpg",
+      "description_vi": "Zengeon là một game nhập vai hành động kết hợp yếu tố Roguelite lấy cảm hứng từ anime, với nhiều nhân vật độc đáo và lối chơi đa dạng.",
+      "release_date": "2019-06-24"
+    },
+    {
       "id": "youtubers-life-omg",
       "title_id": "",
       "name": "youtubers life omg",
