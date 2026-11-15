@@ -32,6 +32,20 @@
       "release_date": "2013-04-02"
     },
     {
+      "id": "vampyr",
+      "title_id": "",
+      "name": "vampyr",
+      "genre": "Nhập vai",
+      "description": "London, 1918. You are newly-turned Vampyr Dr. Jonathan Reid. As a doctor, you must find a cure to save the city’s flu-ravaged citizens. As a Vampyr, you are cursed to feed on those you vowed to heal.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Vampyr/Vampyr__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lrg.jpg",
+      "description_vi": "Luân Đôn, năm 1918. Bạn là bác sĩ Jonathan Reid, một người vừa biến thành ma cà rồng. Là một bác sĩ, bạn phải tìm ra phương thuốc để cứu những người dân thành phố đang bị dịch cúm tàn phá.",
+      "release_date": "2018-06-05"
+    },
+    {
       "id": "under-mine",
       "title_id": "",
       "name": "under mine",
