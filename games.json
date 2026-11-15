@@ -98,7 +98,7 @@
       "status": "CO PATCH",
       "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Youtubers-Life-OMG/Youtubers-Life-OMG__vunknown.zip",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27gq.jpg",
-      "description_vi": "Phiên bản OMG của Youtubers Life là phiên bản dành cho máy chơi game console của phiên bản PC trước đó. Trò chơi có ba \"kênh\" để người chơi khám phá: Chơi game, Âm nhạc và Nấu ăn.",
+      "description_vi": "Phiên bản OMG của Youtubers Life là phiên bản dành cho máy chơi game của bản phát hành PC trước đó. Trò chơi có ba \"kênh\" để người chơi khám phá: Chơi game, Âm nhạc và Nấu ăn.",
       "release_date": "2018-11-20"
     },
     {
@@ -196,7 +196,7 @@
       "status": "CO PATCH",
       "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Assassins-Creed-III-Remastered/Assassins-Creed-III-Remastered__vunknown.zip",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gjw.jpg",
-      "description_vi": "Sống lại cuộc Cách mạng Mỹ hoặc trải nghiệm nó lần đầu tiên trong Assassin's Creed III Remastered, với đồ họa được nâng cấp và cơ chế gameplay được cải tiến.",
+      "description_vi": "Sống lại cuộc Cách mạng Mỹ hoặc trải nghiệm nó lần đầu tiên trong Assassin's Creed III Remastered, với đồ họa được nâng cấp và cơ chế chơi được cải tiến.",
       "release_date": "2019-03-29"
     },
     {
@@ -570,9 +570,9 @@
       "genre": "Hành động",
       "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure.",
       "author": "",
-      "version": "1.0",
+      "version": "1.4.1",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-Odyssey/Mario-Odyssey__v1.0.zip",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Mario-Odyssey/Mario-Odyssey__v1.4.1.zip",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.jpg",
       "description_vi": "Khám phá những vùng đất kỳ thú nằm ngoài Vương quốc Nấm khi bạn cùng Mario và người bạn đồng hành mới Cappy tham gia vào một cuộc phiêu lưu 3D vòng quanh thế giới quy mô lớn.",
       "release_date": "2017-10-27"
