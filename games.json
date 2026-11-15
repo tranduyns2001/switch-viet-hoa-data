@@ -18,18 +18,18 @@
       "release_date": "2023-10-19"
     },
     {
-      "id": "witchspring-3-re-fine",
+      "id": "witchspring3-refine-the-story-of-eirudy",
       "title_id": "",
-      "name": "witchspring 3 re fine",
-      "genre": "",
-      "description": "The Games on Demand version supports English, French, Italian, German, Spanish, Japanese, Chinese.",
+      "name": "witchspring3 refine the story of eirudy",
+      "genre": "Nhập vai",
+      "description": "A lonely witch \"Eirudy\" who escaped from the witch hunt of an army and warriors, lives quietly in the remote deep forest.",
       "author": "",
       "version": "1.1__us__eu",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/WitchSpring-3-Re-Fine/WitchSpring-3-Re-Fine__v1.1__us__eu.zip",
-      "cover": "",
-      "description_vi": "Phiên bản Games on Demand hỗ trợ các ngôn ngữ: tiếng Anh, tiếng Pháp, tiếng Ý, tiếng Đức, tiếng Tây Ban Nha, tiếng Nhật và tiếng Trung Quốc.",
-      "release_date": "2013-04-02"
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/WitchSpring3-ReFine-The-Story-of-Eirudy/WitchSpring3-ReFine-The-Story-of-Eirudy__v1.1__us__eu.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ro0.jpg",
+      "description_vi": "Một phù thủy cô độc tên là \"Eirudy\", người đã trốn thoát khỏi cuộc săn lùng phù thủy của một đội quân và các chiến binh, sống lặng lẽ trong khu rừng sâu hẻo lánh.",
+      "release_date": "2020-12-17"
     },
     {
       "id": "vampyr",
