@@ -4,6 +4,20 @@
   "updated_at": "2026-11-15",
   "games": [
     {
+      "id": "world-of-horror",
+      "title_id": "",
+      "name": "world of horror",
+      "genre": "Sinh tồn",
+      "description": "Experience the quiet terror of this 1-bit love letter to Junji Ito and H.P. Lovecraft. Navigate a hellish roguelite reality with turn-based combat and unforgiving choices.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/World-Of-Horror/World-Of-Horror__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xh7.jpg",
+      "description_vi": "Trải nghiệm nỗi kinh hoàng thầm lặng trong bức thư tình 1-bit gửi đến Junji Ito và H.P. Lovecraft. Điều hướng trong một thực tại roguelite địa ngục với lối chơi chiến đấu theo lượt và những lựa chọn khắc nghiệt.",
+      "release_date": "2023-10-19"
+    },
+    {
       "id": "witchspring-3-re-fine",
       "title_id": "",
       "name": "witchspring 3 re fine",
