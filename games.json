@@ -4,6 +4,20 @@
   "updated_at": "2026-11-15",
   "games": [
     {
+      "id": "under-mine",
+      "title_id": "",
+      "name": "under mine",
+      "genre": "Khác",
+      "description": "A logic puzzle game - classic minesweeper with a modern twist.",
+      "author": "",
+      "version": "1.2.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Under-Mine/Under-Mine__v1.2.0.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vkn.jpg",
+      "description_vi": "Một trò chơi giải đố logic - trò chơi dò mìn cổ điển với một chút biến tấu hiện đại.",
+      "release_date": "2022-09-30"
+    },
+    {
       "id": "zengeon",
       "title_id": "",
       "name": "zengeon",
