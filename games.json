@@ -74,6 +74,20 @@
       "release_date": "2020-09-17"
     },
     {
+      "id": "0100ba4026e94000",
+      "title_id": "",
+      "name": "0100BA4026E94000",
+      "genre": "",
+      "description": "Chưa có mô tả.",
+      "author": "",
+      "version": "1.1.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/0100ba4026e94000/0100ba4026e94000__v1.1.0.zip",
+      "cover": "",
+      "description_vi": "Chưa có mô tả.",
+      "release_date": ""
+    },
+    {
       "id": "zengeon",
       "title_id": "",
       "name": "zengeon",
