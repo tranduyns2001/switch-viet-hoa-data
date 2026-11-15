@@ -32,6 +32,20 @@
       "release_date": "2022-09-30"
     },
     {
+      "id": "hades",
+      "title_id": "",
+      "name": "hades",
+      "genre": "Nhập vai",
+      "description": "A rogue-lite hack and slash dungeon crawler in which Zagreus, son of Hades the Greek god of the dead, attempts to escape his home and his oppressive father by fighting the souls of the dead through...",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Hades/Hades__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9kr.jpg",
+      "description_vi": "Một trò chơi nhập vai hành động kiểu rogue-lite, trong đó Zagreus, con trai của Hades, vị thần chết trong thần thoại Hy Lạp, cố gắng trốn thoát khỏi nhà và người cha hà khắc của mình bằng cách chiến đấu với linh hồn của người chết...",
+      "release_date": "2020-09-17"
+    },
+    {
       "id": "zengeon",
       "title_id": "",
       "name": "zengeon",
