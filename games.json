@@ -4,18 +4,18 @@
   "updated_at": "2026-11-15",
   "games": [
     {
-      "id": "witchspring-3-fine",
+      "id": "witchspring-3-refine",
       "title_id": "",
-      "name": "witchspring 3 fine",
+      "name": "witchspring 3 refine",
       "genre": "",
-      "description": "Thirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The...",
+      "description": "Choose fate. Choose story. The fate of the witches is in your hands.",
       "author": "",
       "version": "1.1__us__eu",
       "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/WitchSpring-3-Fine/WitchSpring-3-Fine__v1.1__us__eu.7z",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/WitchSpring-3-ReFine/WitchSpring-3-ReFine__v1.1__us__eu.7z",
       "cover": "",
-      "description_vi": "Ba mươi năm sau khi Freddy Fazbear's Pizza đóng cửa, những sự kiện từng diễn ra ở đó giờ chỉ còn là lời đồn và ký ức tuổi thơ, nhưng chủ sở hữu của \"Fazbear's Fright: The...",
-      "release_date": "2015-03-02"
+      "description_vi": "Hãy lựa chọn số phận. Hãy lựa chọn câu chuyện. Số phận của các phù thủy nằm trong tay bạn.",
+      "release_date": "2021-11-01"
     },
     {
       "id": "under-mine",
