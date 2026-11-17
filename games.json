@@ -4,6 +4,20 @@
   "updated_at": "2026-11-17",
   "games": [
     {
+      "id": "a-memoir-blue",
+      "title_id": "",
+      "name": "a memoir blue",
+      "genre": "Phiêu lưu",
+      "description": "A Memoir Blue is an atmospheric journey through the memories of Miriam: a champion swimmer, who on the day of her greatest success dwells on her childhood memories of her mother and a special trip...",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/A-Memoir-Blue/A-Memoir-Blue__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hep.jpg",
+      "description_vi": "Hồi ức xanh thẳm là một hành trình đầy cảm xúc qua những ký ức của Miriam: một vận động viên bơi lội vô địch, người vào ngày đạt được thành công lớn nhất của mình đã hồi tưởng về những kỷ niệm thời thơ ấu với mẹ và một chuyến đi đặc biệt...",
+      "release_date": "2022-03-24"
+    },
+    {
       "id": "9-monkeys-of-shaolin",
       "title_id": "",
       "name": "9 monkeys of shaolin",
