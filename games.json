@@ -4,6 +4,20 @@
   "updated_at": "2026-11-17",
   "games": [
     {
+      "id": "9-monkeys-of-shaolin",
+      "title_id": "",
+      "name": "9 monkeys of shaolin",
+      "genre": "Nhập vai",
+      "description": "9 Monkeys of Shaolin marks a true rebirth of the iconic brawler genre in vein of old-school video games.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/9-Monkeys-of-Shaolin/9-Monkeys-of-Shaolin__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xlo.jpg",
+      "description_vi": "9 Monkeys of Shaolin đánh dấu sự hồi sinh thực sự của thể loại game đối kháng kinh điển theo phong cách của các trò chơi điện tử cổ điển.",
+      "release_date": "2020-10-16"
+    },
+    {
       "id": "world-of-horror",
       "title_id": "",
       "name": "world of horror",
