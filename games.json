@@ -4,6 +4,20 @@
   "updated_at": "2026-11-17",
   "games": [
     {
+      "id": "anno-mutationem",
+      "title_id": "",
+      "name": "anno mutationem",
+      "genre": "Nhập vai",
+      "description": "Anno: Mutationem set up a near future Metropolis after the catastrophy.",
+      "author": "",
+      "version": "1.05.05",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/ANNO-Mutationem/ANNO-Mutationem__v1.05.05.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vn1.jpg",
+      "description_vi": "Anno: Mutationem đã thành lập một Metropolis trong tương lai gần sau thảm họa.",
+      "release_date": "2022-03-17"
+    },
+    {
       "id": "a-memoir-blue",
       "title_id": "",
       "name": "a memoir blue",
