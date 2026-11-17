@@ -18,6 +18,20 @@
       "release_date": "2016-10-20"
     },
     {
+      "id": "blasphemous-2",
+      "title_id": "",
+      "name": "blasphemous 2",
+      "genre": "Nhập vai",
+      "description": "The Penitent One awakens as Blasphemous 2 joins him once again in an endless struggle against The Miracle.",
+      "author": "",
+      "version": "1.0.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Blasphemous-2/Blasphemous-2__v1.0.0.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ej3.jpg",
+      "description_vi": "Kẻ Ăn Năn tỉnh dậy khi Kẻ Báng Bổ 2 một lần nữa tham gia cùng hắn trong cuộc chiến bất tận chống lại Phép Màu.",
+      "release_date": "2023-08-24"
+    },
+    {
       "id": "blasphemous-1",
       "title_id": "",
       "name": "blasphemous 1",
