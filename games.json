@@ -32,20 +32,6 @@
       "release_date": "2023-08-24"
     },
     {
-      "id": "blasphemous-1",
-      "title_id": "",
-      "name": "blasphemous 1",
-      "genre": "",
-      "description": "Blasphemous is an action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core, delivered through exploration of a huge universe...",
-      "author": "",
-      "version": "1.0.0",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Blasphemous-1/Blasphemous-1__v1.0.0.rar",
-      "cover": "",
-      "description_vi": "Blasphemous là một game hành động platformer kết hợp lối chiến đấu nhanh, đòi hỏi kỹ năng cao của thể loại chặt chém với cốt truyện sâu sắc và giàu cảm xúc, được truyền tải thông qua việc khám phá một vũ trụ rộng lớn...",
-      "release_date": "2019-09-09"
-    },
-    {
       "id": "anno-mutationem",
       "title_id": "",
       "name": "anno mutationem",
