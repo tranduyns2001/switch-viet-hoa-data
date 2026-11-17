@@ -4,6 +4,20 @@
   "updated_at": "2026-11-17",
   "games": [
     {
+      "id": "civilization-vi",
+      "title_id": "",
+      "name": "civilization vi",
+      "genre": "Mô phỏng",
+      "description": "Civilization VI is a 4X turn-based strategy game in which players guide a civilization from its founding as a small settlement through multiple eras of development.",
+      "author": "",
+      "version": "1.0.0",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Civilization-VI/Civilization-VI__v1.0.0.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaqr.jpg",
+      "description_vi": "Civilization VI là một trò chơi chiến lược theo lượt 4X, trong đó người chơi dẫn dắt một nền văn minh từ khi thành lập như một khu định cư nhỏ qua nhiều kỷ nguyên phát triển.",
+      "release_date": "2016-10-20"
+    },
+    {
       "id": "blasphemous-1",
       "title_id": "",
       "name": "blasphemous 1",
