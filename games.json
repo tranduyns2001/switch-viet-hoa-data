@@ -4,6 +4,20 @@
   "updated_at": "2026-11-20",
   "games": [
     {
+      "id": "beat-souls",
+      "title_id": "",
+      "name": "beat souls",
+      "genre": "Hành động",
+      "description": "Dive into the world of cyber and pop rhythms! Avoid noises and keep dancing in this high-speed avoidance action-game.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Beat-Souls/Beat-Souls__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3m26.jpg",
+      "description_vi": "Hòa mình vào thế giới của âm nhạc điện tử và nhịp điệu pop! Tránh tiếng ồn và tiếp tục nhảy múa trong trò chơi hành động né tránh tốc độ cao này.",
+      "release_date": "2021-07-29"
+    },
+    {
       "id": "aris-a-simple-story",
       "title_id": "",
       "name": "aris a simple story",
