@@ -4,6 +4,20 @@
   "updated_at": "2026-11-20",
   "games": [
     {
+      "id": "aris-a-simple-story",
+      "title_id": "",
+      "name": "aris a simple story",
+      "genre": "",
+      "description": "Arise: A Simple Story is a game filled with feelings of love and loss that we believe is truly special.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Aris-A-Simple-Story/Aris-A-Simple-Story__vunknown.rar",
+      "cover": "",
+      "description_vi": "Arise: A Simple Story là một trò chơi chứa đựng những cảm xúc về tình yêu và mất mát mà chúng tôi tin rằng thực sự rất đặc biệt.",
+      "release_date": "2019-12-03"
+    },
+    {
       "id": "civilization-vi",
       "title_id": "",
       "name": "civilization vi",
