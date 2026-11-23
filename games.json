@@ -5,16 +5,16 @@
   "games": [
     {
       "id": "grand-theft-auto-v",
-      "title_id": "",
-      "name": "grand theft auto v",
-      "genre": "",
-      "description": "Rockstar Games went bigger, since their previous installment of the series.",
+      "title_id": "0100B00B51230000",
+      "name": "Grand Theft Auto V",
+      "genre": "Hành động",
+      "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV.",
       "author": "",
       "version": "6.9.420",
       "status": "CO PATCH",
       "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Grand-Theft-Auto-V/Grand-Theft-Auto-V__v6.9.420.zip",
-      "cover": "",
-      "description_vi": "Rockstar Games đã nâng tầm trò chơi lên một quy mô lớn hơn so với phiên bản trước đó trong series.",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+      "description_vi": "Grand Theft Auto V là một trò chơi thế giới mở rộng lớn lấy bối cảnh ở Los Santos, một đô thị trải dài ngập tràn ánh nắng đang vật lộn để tồn tại trong thời đại kinh tế bất ổn và truyền hình thực tế rẻ tiền.",
       "release_date": "2013-09-17"
     },
     {
