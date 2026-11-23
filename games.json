@@ -4,6 +4,20 @@
   "updated_at": "2026-11-23",
   "games": [
     {
+      "id": "gta-v",
+      "title_id": "",
+      "name": "gta v",
+      "genre": "",
+      "description": "Rockstar Games went bigger, since their previous installment of the series.",
+      "author": "",
+      "version": "6.9.420",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/gta-v/gta-v__v6.9.420.zip",
+      "cover": "",
+      "description_vi": "Rockstar Games đã nâng tầm trò chơi lên một quy mô lớn hơn so với phiên bản trước đó trong series.",
+      "release_date": "2013-09-17"
+    },
+    {
       "id": "beat-souls",
       "title_id": "",
       "name": "beat souls",
