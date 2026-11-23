@@ -18,6 +18,20 @@
       "release_date": "2013-09-17"
     },
     {
+      "id": "arise-a-simple-story",
+      "title_id": "",
+      "name": "arise a simple story",
+      "genre": "Hành động",
+      "description": "Set out on an emotional journey through the bittersweet lives of two people where memories come alive and time bends to your will.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Arise-A-Simple-Story/Arise-A-Simple-Story__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ekb.jpg",
+      "description_vi": "Hãy bắt đầu một hành trình đầy cảm xúc qua cuộc sống ngọt ngào xen lẫn cay đắng của hai con người, nơi những ký ức sống dậy và thời gian như uốn cong theo ý muốn của bạn.",
+      "release_date": "2019-12-03"
+    },
+    {
       "id": "beat-souls",
       "title_id": "",
       "name": "beat souls",
@@ -30,20 +44,6 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3m26.jpg",
       "description_vi": "Hòa mình vào thế giới của âm nhạc điện tử và nhịp điệu pop! Tránh tiếng ồn và tiếp tục nhảy múa trong trò chơi hành động né tránh tốc độ cao này.",
       "release_date": "2021-07-29"
-    },
-    {
-      "id": "arisesimplestory",
-      "title_id": "",
-      "name": "arisesimplestory",
-      "genre": "",
-      "description": "Chưa có mô tả.",
-      "author": "",
-      "version": "Chưa xác định",
-      "status": "CO PATCH",
-      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/AriseSimpleStory/AriseSimpleStory__vunknown.rar",
-      "cover": "",
-      "description_vi": "Chưa có mô tả.",
-      "release_date": ""
     },
     {
       "id": "civilization-vi",
