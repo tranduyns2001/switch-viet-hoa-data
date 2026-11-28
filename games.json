@@ -18,6 +18,20 @@
       "release_date": "2014-06-24"
     },
     {
+      "id": "unruly-heroes",
+      "title_id": "",
+      "name": "unruly heroes",
+      "genre": "Hành động",
+      "description": "Unruly Heroes is a 2D action-packed adventure game inspired by the famous chinese novel ‘A journey to the west’ better known as the Monkey King Legend.",
+      "author": "",
+      "version": "262144",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Unruly-Heroes/Unruly-Heroes__v262144.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xlc.jpg",
+      "description_vi": "Unruly Heroes là một trò chơi phiêu lưu hành động 2D lấy cảm hứng từ tiểu thuyết nổi tiếng Trung Quốc \"Tây Du Ký\", hay còn được biết đến với tên gọi Truyền thuyết Tôn Ngộ Không.",
+      "release_date": "2019-01-23"
+    },
+    {
       "id": "bloodstained-ritual-of-the-night",
       "title_id": "",
       "name": "bloodstained ritual of the night",
