@@ -46,6 +46,20 @@
       "release_date": "2021-09-09"
     },
     {
+      "id": "triangle-strategy",
+      "title_id": "",
+      "name": "triangle strategy",
+      "genre": "Nhập vai",
+      "description": "Three nations battle for control of the dwindling resources of salt and iron in this HD-2D adventure tactical RPG.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Triangle-Strategy/Triangle-Strategy__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wc0.jpg",
+      "description_vi": "Ba quốc gia tranh giành quyền kiểm soát nguồn tài nguyên muối và sắt đang cạn kiệt trong trò chơi nhập vai chiến thuật phiêu lưu HD-2D này.",
+      "release_date": "2022-03-04"
+    },
+    {
       "id": "bloodstained-ritual-of-the-night",
       "title_id": "",
       "name": "bloodstained ritual of the night",
