@@ -4,6 +4,20 @@
   "updated_at": "2026-11-28",
   "games": [
     {
+      "id": "valiant-hearts-the-great-war",
+      "title_id": "",
+      "name": "valiant hearts the great war",
+      "genre": "Hành động",
+      "description": "Valiant Hearts: The Great War is the story of 4 crossed destinies and a broken love in a world torn apart. Dive into a 2D animated comic book adventure, mixing exploration, action and puzzles.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Valiant-Hearts-The-Great-War/Valiant-Hearts-The-Great-War__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25zo.jpg",
+      "description_vi": "Valiant Hearts: The Great War là câu chuyện về 4 số phận giao nhau và một tình yêu tan vỡ trong một thế giới tan nát. Hòa mình vào cuộc phiêu lưu truyện tranh hoạt hình 2D, kết hợp khám phá, hành động và giải đố.",
+      "release_date": "2014-06-24"
+    },
+    {
       "id": "grand-theft-auto-v",
       "title_id": "0100B00B51230000",
       "name": "Grand Theft Auto V",
