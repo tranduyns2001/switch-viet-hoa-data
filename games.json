@@ -32,6 +32,20 @@
       "release_date": "2019-01-23"
     },
     {
+      "id": "ultra-age",
+      "title_id": "",
+      "name": "ultra age",
+      "genre": "Hành động",
+      "description": "Ultra Age follows the story of a young warrior named Age, who embarks on a mission to save humankind from extinction.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Ultra-Age/Ultra-Age__vunknown.rar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2t7e.jpg",
+      "description_vi": "Ultra Age kể về câu chuyện của một chiến binh trẻ tên Age, người bắt đầu một nhiệm vụ giải cứu nhân loại khỏi nguy cơ tuyệt chủng.",
+      "release_date": "2021-09-09"
+    },
+    {
       "id": "bloodstained-ritual-of-the-night",
       "title_id": "",
       "name": "bloodstained ritual of the night",
