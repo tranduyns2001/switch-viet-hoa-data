@@ -18,6 +18,20 @@
       "release_date": "2014-06-24"
     },
     {
+      "id": "bloodstained-ritual-of-the-night",
+      "title_id": "",
+      "name": "bloodstained ritual of the night",
+      "genre": "Nhập vai",
+      "description": "Bloodstained: Ritual of the Night is a gothic horror action side-scrolling RPG set in 19th century England.",
+      "author": "",
+      "version": "Chưa xác định",
+      "status": "CO PATCH",
+      "patch_url": "https://github.com/tranduyns2001/switch-viet-hoa-data/releases/download/Bloodstained-Ritual-of-the-Night/Bloodstained-Ritual-of-the-Night__vunknown.zip",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc4a.jpg",
+      "description_vi": "Bloodstained: Ritual of the Night là một game nhập vai hành động màn hình ngang theo phong cách kinh dị Gothic, lấy bối cảnh nước Anh thế kỷ 19.",
+      "release_date": "2019-06-18"
+    },
+    {
       "id": "grand-theft-auto-v",
       "title_id": "0100B00B51230000",
       "name": "Grand Theft Auto V",
